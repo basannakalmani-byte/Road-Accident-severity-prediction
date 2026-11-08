@@ -1,0 +1,1801 @@
+road_type,weather,light,traffic_density,road_surface,speed_limit,vehicles_involved,driver_age,alcohol_involvement,accident_severity
+Rural,Clear,Daylight,Low,Wet,110,1,72,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,100,2,18,No,Moderate
+Urban,Clear,Daylight,Low,Wet,40,1,30,No,Minor
+Urban,Clear,Daylight,High,Dry,70,3,64,No,Minor
+Rural,Clear,Daylight,Low,Dry,60,4,66,No,Minor
+Urban,Clear,Daylight,High,Dry,120,2,49,No,Minor
+Urban,Snowy,Dark - street lights,Medium,Wet,30,1,22,No,Moderate
+Intersection,Clear,Dark - street lights,Low,Dry,100,1,35,No,Moderate
+Highway,Clear,Dark - street lights,High,Dry,60,6,35,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Dry,90,2,77,No,Moderate
+Intersection,Foggy,Daylight,Medium,Wet,110,3,61,No,Moderate
+Intersection,Foggy,Daylight,Medium,Dry,40,4,56,No,Moderate
+Highway,Clear,Daylight,Low,Gravel,110,4,59,No,Severe
+Intersection,Rainy,Daylight,Low,Dry,40,1,80,No,Moderate
+Intersection,Clear,Daylight,Medium,Gravel,50,2,72,Yes,Severe
+Rural,Rainy,Daylight,Medium,Dry,110,2,49,No,Moderate
+Urban,Clear,Daylight,Low,Dry,30,1,22,No,Minor
+Rural,Clear,Daylight,High,Dry,100,1,78,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,30,3,30,No,Minor
+Urban,Clear,Daylight,Low,Dry,100,1,27,No,Minor
+Intersection,Clear,Daylight,High,Wet,40,4,48,No,Minor
+Highway,Clear,Daylight,High,Dry,100,2,80,No,Moderate
+Urban,Foggy,Daylight,Medium,Wet,30,1,79,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,60,2,49,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,70,1,58,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,120,6,27,No,Moderate
+Highway,Clear,Daylight,Low,Dry,70,1,56,No,Moderate
+Urban,Rainy,Daylight,Medium,Gravel,50,2,31,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,70,2,50,No,Minor
+Highway,Clear,Daylight,High,Dry,70,1,74,No,Minor
+Highway,Clear,Daylight,High,Icy,110,1,65,No,Moderate
+Urban,Foggy,Dark - street lights,High,Icy,60,3,31,No,Moderate
+Highway,Foggy,Dark - no street lights,Medium,Gravel,60,4,40,No,Severe
+Urban,Foggy,Dark - street lights,High,Wet,70,1,31,No,Moderate
+Urban,Clear,Daylight,High,Dry,60,1,42,No,Minor
+Rural,Clear,Daylight,Medium,Wet,80,4,32,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,80,3,58,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,110,3,43,No,Moderate
+Urban,Rainy,Daylight,Medium,Wet,70,2,70,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,120,2,18,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Dry,60,2,39,No,Minor
+Highway,Clear,Dark - no street lights,Low,Dry,60,1,23,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,60,3,67,No,Minor
+Urban,Rainy,Dark - street lights,Low,Dry,50,3,84,No,Moderate
+Highway,Foggy,Daylight,Low,Dry,110,6,58,Yes,Severe
+Rural,Clear,Dark - street lights,Medium,Icy,100,2,49,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,70,1,60,No,Minor
+Urban,Rainy,Dark - street lights,Low,Dry,110,2,25,No,Moderate
+Highway,Foggy,Dark - street lights,Medium,Wet,120,2,18,Yes,Severe
+Intersection,Rainy,Daylight,Medium,Wet,60,2,52,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,100,4,21,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,80,1,59,No,Minor
+Intersection,Clear,Dark - no street lights,Medium,Wet,100,1,24,Yes,Severe
+Rural,Rainy,Dark - street lights,High,Dry,30,2,48,No,Moderate
+Rural,Clear,Daylight,Medium,Wet,50,2,32,No,Minor
+Highway,Foggy,Daylight,High,Dry,60,1,49,No,Moderate
+Rural,Rainy,Dark - street lights,Low,Gravel,30,2,72,No,Severe
+Urban,Clear,Daylight,Medium,Dry,100,3,73,No,Moderate
+Highway,Rainy,Dark - street lights,High,Wet,100,2,52,No,Severe
+Urban,Clear,Dark - street lights,Medium,Wet,80,1,59,No,Moderate
+Urban,Rainy,Daylight,High,Wet,70,2,84,Yes,Severe
+Highway,Rainy,Dark - street lights,Medium,Dry,30,1,46,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,110,2,76,No,Moderate
+Urban,Clear,Daylight,High,Dry,60,3,53,No,Minor
+Intersection,Clear,Daylight,Low,Dry,60,2,56,No,Minor
+Intersection,Clear,Dark - street lights,Low,Wet,100,1,19,No,Moderate
+Highway,Clear,Daylight,Low,Gravel,100,1,26,No,Severe
+Urban,Clear,Daylight,Medium,Gravel,40,2,71,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,120,6,57,No,Severe
+Urban,Rainy,Dark - street lights,Low,Dry,60,1,27,No,Moderate
+Highway,Rainy,Daylight,Low,Dry,70,3,76,No,Moderate
+Rural,Clear,Dark - street lights,Low,Dry,60,2,52,No,Minor
+Urban,Clear,Daylight,Medium,Dry,70,2,77,No,Minor
+Highway,Clear,Daylight,Low,Dry,80,2,21,No,Minor
+Intersection,Rainy,Daylight,High,Gravel,70,2,40,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,80,2,59,No,Minor
+Intersection,Clear,Dark - street lights,Low,Gravel,110,1,29,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Dry,90,1,84,No,Severe
+Rural,Rainy,Dark - street lights,Low,Dry,70,2,80,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,2,33,No,Minor
+Urban,Foggy,Daylight,Medium,Dry,100,6,49,No,Moderate
+Highway,Rainy,Daylight,Low,Wet,90,2,82,No,Severe
+Urban,Rainy,Dark - street lights,Medium,Wet,50,2,79,No,Minor
+Highway,Clear,Daylight,Medium,Dry,60,4,70,No,Minor
+Rural,Rainy,Dark - street lights,Medium,Wet,50,2,22,No,Moderate
+Urban,Rainy,Daylight,High,Dry,50,2,37,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,80,4,66,Yes,Moderate
+Highway,Clear,Dark - street lights,Low,Wet,70,6,29,No,Minor
+Urban,Rainy,Dark - no street lights,Medium,Wet,30,1,25,No,Moderate
+Highway,Clear,Dark - street lights,Low,Dry,90,2,48,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Wet,100,4,38,No,Severe
+Urban,Foggy,Dark - street lights,Medium,Dry,90,4,31,No,Moderate
+Highway,Clear,Dark - no street lights,Low,Gravel,90,2,24,Yes,Severe
+Intersection,Rainy,Daylight,High,Dry,60,2,35,No,Minor
+Intersection,Rainy,Daylight,Medium,Dry,50,1,55,No,Minor
+Rural,Foggy,Daylight,Medium,Dry,50,2,79,Yes,Moderate
+Urban,Foggy,Dark - street lights,Medium,Dry,60,4,68,Yes,Moderate
+Rural,Clear,Daylight,Medium,Wet,70,2,65,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Gravel,60,2,77,No,Moderate
+Urban,Foggy,Daylight,Medium,Dry,110,1,76,No,Severe
+Intersection,Rainy,Daylight,Medium,Wet,90,2,80,No,Severe
+Rural,Clear,Daylight,Low,Dry,80,2,63,No,Minor
+Urban,Foggy,Dark - no street lights,High,Dry,60,2,20,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,60,2,36,No,Moderate
+Highway,Clear,Dark - no street lights,High,Dry,50,1,21,No,Minor
+Highway,Clear,Daylight,Low,Dry,40,3,78,No,Moderate
+Urban,Clear,Daylight,Low,Dry,110,2,21,No,Minor
+Rural,Clear,Dark - no street lights,Low,Dry,120,1,34,No,Moderate
+Rural,Clear,Daylight,High,Dry,100,2,73,No,Moderate
+Rural,Rainy,Dark - street lights,Low,Dry,60,2,76,No,Minor
+Rural,Clear,Daylight,Low,Gravel,100,1,28,No,Severe
+Rural,Clear,Dark - street lights,Medium,Dry,40,2,72,No,Moderate
+Rural,Foggy,Dark - street lights,Medium,Dry,60,1,79,No,Moderate
+Urban,Rainy,Daylight,High,Wet,120,2,21,No,Severe
+Rural,Rainy,Daylight,Low,Wet,80,2,41,No,Minor
+Urban,Rainy,Daylight,Medium,Dry,90,2,38,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,50,3,24,No,Minor
+Highway,Clear,Daylight,High,Dry,90,1,80,No,Severe
+Urban,Clear,Dark - no street lights,Low,Dry,60,3,50,No,Moderate
+Highway,Clear,Daylight,Low,Dry,80,1,23,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,90,2,69,No,Minor
+Highway,Rainy,Dark - no street lights,Low,Wet,60,2,69,No,Severe
+Highway,Clear,Daylight,Medium,Dry,110,2,85,No,Moderate
+Rural,Rainy,Dark - street lights,Low,Dry,60,1,37,No,Minor
+Rural,Clear,Dark - street lights,Medium,Wet,120,2,59,No,Moderate
+Urban,Clear,Daylight,Low,Dry,110,1,77,No,Moderate
+Urban,Rainy,Daylight,High,Wet,120,2,67,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Dry,100,2,25,No,Moderate
+Rural,Rainy,Dark - no street lights,Low,Dry,30,1,74,Yes,Moderate
+Urban,Foggy,Daylight,High,Wet,30,3,60,No,Moderate
+Urban,Rainy,Daylight,Medium,Wet,120,4,60,No,Moderate
+Urban,Rainy,Dark - street lights,Low,Wet,40,2,66,No,Minor
+Urban,Clear,Dark - street lights,High,Gravel,110,1,72,No,Severe
+Intersection,Clear,Dark - street lights,Low,Gravel,50,1,30,No,Moderate
+Highway,Rainy,Daylight,Medium,Wet,120,1,66,No,Severe
+Highway,Foggy,Dark - street lights,Low,Dry,60,5,54,No,Moderate
+Rural,Clear,Daylight,High,Wet,60,2,74,No,Minor
+Highway,Foggy,Dark - street lights,High,Dry,70,1,79,No,Severe
+Highway,Clear,Dark - street lights,High,Dry,50,2,83,No,Minor
+Urban,Clear,Daylight,Low,Dry,110,2,67,Yes,Moderate
+Urban,Clear,Dark - no street lights,High,Dry,50,1,54,Yes,Minor
+Rural,Clear,Dark - street lights,High,Dry,60,3,85,No,Minor
+Rural,Clear,Daylight,Low,Dry,120,2,32,No,Minor
+Rural,Clear,Dark - street lights,Low,Dry,80,1,71,No,Moderate
+Rural,Clear,Daylight,High,Dry,110,2,67,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,40,3,60,No,Minor
+Urban,Clear,Dark - street lights,High,Wet,100,2,35,No,Moderate
+Urban,Clear,Daylight,Low,Gravel,110,2,78,No,Moderate
+Rural,Clear,Daylight,High,Wet,80,2,65,No,Minor
+Intersection,Clear,Daylight,Medium,Dry,110,2,28,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,40,2,55,No,Minor
+Rural,Clear,Daylight,High,Dry,90,2,25,No,Minor
+Rural,Clear,Dark - street lights,Medium,Gravel,50,3,74,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,80,2,27,No,Moderate
+Highway,Clear,Dark - street lights,Low,Dry,50,2,67,Yes,Moderate
+Rural,Clear,Dark - street lights,Medium,Gravel,60,1,27,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,80,2,26,No,Minor
+Urban,Rainy,Dark - street lights,Low,Dry,60,1,43,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,110,1,29,No,Minor
+Highway,Clear,Daylight,Medium,Dry,80,2,75,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,50,2,25,No,Minor
+Urban,Foggy,Daylight,High,Dry,70,3,50,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Dry,50,2,37,No,Minor
+Urban,Foggy,Daylight,High,Dry,120,2,44,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,70,2,69,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,80,3,62,Yes,Moderate
+Urban,Clear,Daylight,Medium,Dry,70,2,36,No,Minor
+Highway,Clear,Dark - no street lights,Low,Dry,120,3,42,No,Severe
+Highway,Clear,Daylight,Medium,Dry,90,2,48,No,Moderate
+Highway,Foggy,Dark - street lights,Medium,Dry,40,2,51,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,110,2,67,No,Moderate
+Intersection,Rainy,Daylight,High,Dry,80,2,64,No,Minor
+Urban,Clear,Daylight,Low,Dry,80,3,84,No,Minor
+Urban,Clear,Daylight,High,Wet,70,2,82,No,Minor
+Highway,Rainy,Daylight,High,Dry,40,5,57,No,Minor
+Urban,Clear,Dark - no street lights,High,Wet,120,1,24,No,Moderate
+Urban,Rainy,Dark - street lights,High,Dry,60,1,32,No,Minor
+Highway,Clear,Daylight,Medium,Dry,30,3,84,No,Minor
+Urban,Rainy,Daylight,Medium,Dry,110,2,63,No,Moderate
+Rural,Clear,Daylight,High,Dry,70,1,56,No,Minor
+Rural,Rainy,Daylight,Medium,Dry,70,2,66,No,Minor
+Rural,Clear,Daylight,High,Dry,100,2,79,No,Moderate
+Rural,Clear,Daylight,Low,Dry,120,1,24,No,Minor
+Urban,Clear,Dark - street lights,Low,Wet,30,5,38,No,Minor
+Intersection,Foggy,Daylight,Low,Gravel,80,2,25,No,Severe
+Highway,Rainy,Dark - no street lights,High,Dry,50,4,22,Yes,Severe
+Highway,Clear,Dark - no street lights,High,Gravel,30,1,31,Yes,Moderate
+Rural,Clear,Dark - no street lights,Low,Dry,70,1,32,No,Moderate
+Rural,Rainy,Dark - street lights,Low,Dry,70,2,42,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,50,2,49,No,Minor
+Highway,Clear,Daylight,Medium,Dry,120,1,64,No,Moderate
+Urban,Clear,Daylight,High,Wet,70,3,55,No,Minor
+Urban,Foggy,Daylight,Medium,Gravel,80,2,78,No,Severe
+Rural,Rainy,Dark - street lights,High,Dry,110,3,27,Yes,Moderate
+Urban,Rainy,Dark - no street lights,Low,Dry,50,2,84,No,Moderate
+Highway,Foggy,Daylight,Low,Dry,90,2,25,No,Moderate
+Rural,Clear,Daylight,Low,Dry,60,2,23,No,Minor
+Urban,Foggy,Dark - no street lights,Medium,Dry,50,3,71,No,Moderate
+Intersection,Clear,Dark - no street lights,Medium,Dry,110,1,62,No,Severe
+Urban,Snowy,Dark - street lights,High,Gravel,100,3,72,No,Severe
+Rural,Clear,Daylight,Low,Gravel,40,1,71,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,30,1,23,No,Minor
+Urban,Clear,Dark - no street lights,Low,Dry,70,1,58,No,Moderate
+Urban,Foggy,Dark - no street lights,Medium,Dry,70,1,40,No,Moderate
+Highway,Clear,Dark - no street lights,High,Wet,110,2,71,No,Severe
+Highway,Clear,Daylight,High,Dry,100,4,70,Yes,Severe
+Highway,Clear,Daylight,Low,Dry,100,3,29,No,Moderate
+Urban,Clear,Daylight,Low,Wet,120,3,45,No,Moderate
+Intersection,Clear,Dark - no street lights,Low,Gravel,40,3,79,Yes,Severe
+Highway,Clear,Daylight,Low,Dry,80,2,64,No,Minor
+Highway,Clear,Dark - no street lights,Medium,Wet,60,2,70,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,60,2,66,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Wet,100,5,80,No,Severe
+Urban,Clear,Daylight,High,Gravel,30,2,27,Yes,Moderate
+Rural,Rainy,Daylight,High,Dry,50,1,82,No,Moderate
+Intersection,Foggy,Dark - street lights,Low,Dry,90,1,85,No,Severe
+Highway,Clear,Daylight,Medium,Dry,50,1,30,No,Minor
+Urban,Clear,Dark - street lights,Low,Gravel,100,2,46,No,Severe
+Rural,Clear,Dark - no street lights,Medium,Dry,90,2,78,No,Severe
+Highway,Clear,Dark - street lights,Medium,Wet,40,4,23,No,Moderate
+Intersection,Rainy,Daylight,Low,Gravel,70,4,22,No,Severe
+Urban,Clear,Dark - street lights,High,Gravel,70,1,48,No,Moderate
+Rural,Rainy,Daylight,Medium,Wet,40,2,62,No,Minor
+Urban,Rainy,Dark - no street lights,Medium,Wet,30,2,75,No,Moderate
+Urban,Foggy,Daylight,Medium,Wet,40,3,55,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Dry,40,1,57,No,Minor
+Rural,Clear,Daylight,Medium,Dry,110,2,21,No,Minor
+Rural,Foggy,Daylight,Medium,Wet,110,4,49,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,1,53,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,40,1,18,Yes,Moderate
+Urban,Rainy,Dark - street lights,Medium,Dry,120,1,59,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,120,3,59,No,Minor
+Rural,Clear,Daylight,Medium,Dry,110,1,21,Yes,Moderate
+Highway,Clear,Dark - street lights,High,Wet,90,3,35,No,Moderate
+Urban,Rainy,Dark - street lights,High,Dry,120,2,69,No,Severe
+Highway,Clear,Dark - no street lights,Medium,Wet,120,2,28,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,90,5,60,Yes,Severe
+Urban,Clear,Daylight,Medium,Dry,100,2,77,No,Moderate
+Highway,Clear,Daylight,Low,Dry,90,4,28,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,3,75,No,Moderate
+Urban,Rainy,Daylight,High,Dry,50,4,49,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,90,2,43,No,Moderate
+Highway,Clear,Daylight,Low,Wet,40,2,41,No,Minor
+Rural,Clear,Dark - no street lights,Medium,Dry,90,2,62,No,Moderate
+Highway,Clear,Dark - street lights,High,Gravel,120,1,35,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,90,1,40,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,80,5,80,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Wet,100,1,21,No,Moderate
+Urban,Clear,Daylight,Low,Wet,120,3,81,No,Moderate
+Rural,Rainy,Daylight,High,Dry,100,2,72,No,Moderate
+Rural,Rainy,Daylight,High,Dry,80,4,29,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Wet,90,1,35,No,Moderate
+Rural,Rainy,Daylight,Medium,Dry,50,2,55,No,Minor
+Intersection,Rainy,Daylight,High,Wet,30,6,34,No,Moderate
+Urban,Clear,Daylight,Low,Wet,90,2,52,No,Moderate
+Rural,Rainy,Daylight,Medium,Wet,80,2,80,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Dry,80,4,68,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,100,3,24,No,Moderate
+Highway,Rainy,Daylight,High,Dry,100,1,72,No,Moderate
+Rural,Clear,Dark - no street lights,Low,Wet,70,1,39,No,Moderate
+Highway,Rainy,Dark - street lights,Medium,Dry,40,1,79,No,Minor
+Highway,Clear,Daylight,Low,Wet,50,2,47,No,Minor
+Rural,Clear,Daylight,High,Dry,50,2,36,No,Minor
+Urban,Clear,Daylight,Medium,Gravel,120,3,45,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Gravel,80,3,49,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Wet,70,1,83,No,Moderate
+Highway,Rainy,Dark - street lights,High,Dry,90,1,81,No,Severe
+Urban,Clear,Daylight,Medium,Wet,90,2,40,No,Moderate
+Intersection,Rainy,Daylight,Low,Dry,30,4,68,No,Minor
+Highway,Rainy,Daylight,Medium,Dry,70,1,28,No,Minor
+Urban,Rainy,Daylight,Medium,Dry,40,2,73,No,Minor
+Urban,Clear,Daylight,Medium,Dry,50,1,35,No,Minor
+Urban,Foggy,Daylight,High,Wet,50,2,52,No,Moderate
+Urban,Clear,Daylight,Low,Gravel,40,2,83,No,Moderate
+Highway,Clear,Daylight,Low,Dry,120,3,32,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,30,2,71,No,Minor
+Urban,Foggy,Daylight,High,Dry,40,2,24,No,Moderate
+Intersection,Clear,Daylight,Low,Wet,80,1,76,No,Minor
+Urban,Clear,Daylight,Medium,Dry,120,5,43,No,Minor
+Urban,Foggy,Daylight,Medium,Dry,30,5,18,No,Moderate
+Urban,Rainy,Daylight,Low,Gravel,90,2,25,Yes,Severe
+Urban,Clear,Dark - street lights,Medium,Icy,100,5,28,No,Severe
+Highway,Rainy,Daylight,Medium,Dry,50,1,51,No,Moderate
+Rural,Clear,Daylight,Low,Gravel,50,3,31,No,Minor
+Urban,Clear,Daylight,Medium,Gravel,60,2,77,No,Moderate
+Rural,Rainy,Dark - street lights,Low,Wet,80,1,49,Yes,Severe
+Highway,Clear,Daylight,High,Dry,90,4,49,No,Moderate
+Urban,Clear,Dark - street lights,Low,Dry,90,2,28,No,Moderate
+Urban,Rainy,Daylight,Low,Icy,100,3,29,No,Severe
+Urban,Clear,Daylight,Medium,Wet,90,2,66,No,Minor
+Urban,Clear,Daylight,Low,Icy,30,2,49,No,Minor
+Highway,Clear,Daylight,Medium,Dry,110,1,20,Yes,Severe
+Rural,Clear,Daylight,Medium,Gravel,110,2,52,No,Moderate
+Intersection,Rainy,Daylight,High,Dry,120,6,38,No,Moderate
+Rural,Clear,Dark - street lights,High,Dry,60,2,67,No,Minor
+Urban,Clear,Dark - street lights,Medium,Gravel,30,3,63,Yes,Minor
+Highway,Clear,Daylight,High,Icy,100,2,40,No,Moderate
+Urban,Clear,Daylight,High,Dry,50,2,40,Yes,Minor
+Rural,Clear,Daylight,Medium,Gravel,40,3,64,Yes,Minor
+Highway,Clear,Daylight,Low,Dry,90,3,80,No,Severe
+Urban,Foggy,Dark - street lights,High,Wet,60,2,40,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,120,1,58,Yes,Moderate
+Intersection,Clear,Daylight,High,Dry,40,1,58,No,Minor
+Rural,Rainy,Dark - no street lights,Medium,Dry,60,3,62,No,Moderate
+Urban,Clear,Daylight,Medium,Gravel,90,2,66,No,Moderate
+Rural,Clear,Dark - street lights,Low,Dry,30,2,58,No,Minor
+Urban,Clear,Dark - no street lights,Low,Dry,40,2,79,No,Minor
+Highway,Clear,Daylight,Medium,Gravel,90,3,51,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,30,2,72,No,Minor
+Highway,Clear,Daylight,Medium,Gravel,100,3,57,No,Moderate
+Highway,Foggy,Daylight,Medium,Dry,80,4,65,No,Moderate
+Urban,Rainy,Daylight,Low,Wet,40,1,62,No,Minor
+Highway,Rainy,Daylight,Low,Dry,110,2,78,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,120,3,36,No,Moderate
+Rural,Clear,Dark - no street lights,High,Wet,50,1,28,Yes,Minor
+Highway,Rainy,Daylight,High,Gravel,40,1,68,No,Moderate
+Intersection,Clear,Dark - no street lights,Low,Wet,120,2,71,No,Severe
+Highway,Foggy,Daylight,Low,Wet,70,4,62,No,Severe
+Urban,Rainy,Daylight,Medium,Dry,90,1,69,No,Moderate
+Urban,Rainy,Dark - no street lights,High,Dry,70,2,80,No,Moderate
+Rural,Snowy,Daylight,Medium,Wet,80,2,71,No,Severe
+Intersection,Clear,Daylight,Medium,Dry,30,2,38,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,50,1,43,No,Minor
+Intersection,Rainy,Daylight,High,Dry,40,3,48,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Dry,50,3,51,No,Minor
+Highway,Clear,Daylight,High,Wet,60,3,52,No,Minor
+Highway,Foggy,Dark - no street lights,Medium,Dry,50,2,19,No,Moderate
+Rural,Rainy,Daylight,High,Wet,100,2,77,No,Moderate
+Highway,Rainy,Dark - street lights,Low,Gravel,80,2,54,No,Moderate
+Intersection,Rainy,Dark - no street lights,Low,Wet,70,1,84,No,Severe
+Intersection,Rainy,Dark - street lights,Medium,Wet,50,3,81,Yes,Severe
+Highway,Clear,Dark - street lights,Medium,Dry,60,3,78,No,Moderate
+Rural,Clear,Dark - street lights,High,Wet,50,2,78,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,80,1,57,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Dry,30,4,27,No,Minor
+Rural,Clear,Daylight,High,Dry,60,2,76,No,Minor
+Intersection,Clear,Daylight,Medium,Gravel,80,2,18,No,Moderate
+Highway,Clear,Dark - street lights,High,Dry,90,2,69,No,Severe
+Highway,Clear,Daylight,Medium,Gravel,80,3,85,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,120,2,26,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,50,2,80,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,30,2,39,No,Moderate
+Rural,Rainy,Daylight,Medium,Wet,120,1,24,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,50,1,19,No,Minor
+Rural,Rainy,Daylight,Medium,Dry,40,2,33,No,Minor
+Highway,Rainy,Dark - street lights,High,Dry,90,2,23,No,Moderate
+Intersection,Rainy,Daylight,Low,Dry,40,4,81,No,Moderate
+Rural,Clear,Daylight,Low,Gravel,70,2,24,No,Moderate
+Urban,Clear,Daylight,High,Dry,40,1,23,No,Minor
+Urban,Foggy,Dark - no street lights,Low,Wet,80,3,41,No,Severe
+Highway,Clear,Dark - street lights,Medium,Dry,90,2,39,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,100,1,66,No,Moderate
+Highway,Foggy,Dark - no street lights,Medium,Icy,100,4,32,No,Severe
+Rural,Clear,Dark - no street lights,Medium,Wet,120,1,61,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,90,1,24,No,Moderate
+Highway,Clear,Daylight,High,Dry,80,5,24,No,Minor
+Highway,Clear,Dark - street lights,Low,Dry,120,2,81,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,40,3,56,No,Minor
+Highway,Rainy,Daylight,Medium,Wet,60,3,60,No,Minor
+Rural,Rainy,Daylight,High,Dry,80,2,55,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Wet,90,1,43,No,Severe
+Highway,Rainy,Dark - street lights,Low,Dry,120,1,75,No,Moderate
+Highway,Clear,Dark - no street lights,Low,Wet,110,4,79,Yes,Severe
+Rural,Clear,Dark - street lights,Low,Wet,120,4,82,No,Moderate
+Highway,Clear,Dark - street lights,Low,Dry,80,5,75,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Dry,110,2,43,No,Moderate
+Rural,Rainy,Dark - no street lights,Low,Wet,50,2,59,No,Moderate
+Highway,Foggy,Dark - street lights,Medium,Icy,110,2,72,No,Severe
+Highway,Clear,Daylight,Medium,Dry,50,6,50,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,110,4,67,No,Moderate
+Rural,Rainy,Daylight,Medium,Gravel,90,2,58,Yes,Severe
+Urban,Foggy,Dark - no street lights,Medium,Dry,80,3,43,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,50,3,33,No,Minor
+Urban,Clear,Daylight,Medium,Wet,50,1,59,No,Minor
+Rural,Rainy,Dark - street lights,Medium,Wet,110,2,58,No,Severe
+Rural,Clear,Daylight,Medium,Dry,60,2,60,No,Minor
+Urban,Rainy,Daylight,High,Wet,30,1,62,No,Moderate
+Highway,Foggy,Dark - street lights,Medium,Gravel,40,2,54,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,70,4,42,No,Moderate
+Intersection,Rainy,Daylight,Medium,Dry,60,4,72,No,Moderate
+Urban,Rainy,Dark - no street lights,Medium,Dry,40,3,37,No,Moderate
+Urban,Clear,Daylight,Low,Wet,70,2,75,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,120,1,23,No,Severe
+Urban,Rainy,Daylight,Low,Wet,100,2,21,No,Severe
+Highway,Clear,Daylight,High,Dry,50,2,65,Yes,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,2,62,No,Minor
+Intersection,Rainy,Daylight,Low,Dry,70,1,41,No,Minor
+Rural,Snowy,Daylight,Medium,Dry,40,2,43,No,Minor
+Highway,Clear,Daylight,Medium,Dry,120,1,42,No,Minor
+Urban,Clear,Daylight,Medium,Dry,90,1,58,No,Moderate
+Urban,Rainy,Daylight,High,Dry,80,4,77,No,Moderate
+Urban,Rainy,Daylight,Low,Wet,110,1,27,No,Moderate
+Intersection,Rainy,Dark - street lights,High,Dry,120,1,22,No,Minor
+Highway,Rainy,Daylight,Low,Wet,70,1,82,No,Moderate
+Highway,Clear,Dark - street lights,High,Wet,120,3,83,No,Severe
+Highway,Foggy,Daylight,Medium,Gravel,30,1,80,No,Severe
+Urban,Clear,Dark - street lights,Medium,Wet,90,2,76,No,Severe
+Urban,Foggy,Dark - street lights,Low,Wet,120,2,40,No,Severe
+Urban,Clear,Dark - no street lights,Low,Dry,60,2,63,No,Minor
+Intersection,Clear,Dark - no street lights,Medium,Dry,110,2,45,No,Severe
+Urban,Clear,Dark - street lights,Medium,Dry,80,3,79,No,Minor
+Rural,Clear,Daylight,Low,Dry,50,2,23,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Dry,120,2,54,Yes,Severe
+Highway,Clear,Daylight,Medium,Dry,120,3,41,No,Moderate
+Highway,Clear,Dark - street lights,High,Dry,40,1,67,No,Moderate
+Intersection,Rainy,Dark - street lights,Medium,Dry,120,2,82,No,Severe
+Urban,Rainy,Dark - no street lights,Medium,Dry,90,2,65,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Wet,120,1,35,No,Moderate
+Rural,Foggy,Daylight,Medium,Dry,70,1,18,No,Moderate
+Rural,Rainy,Daylight,Medium,Dry,120,2,72,No,Moderate
+Highway,Snowy,Daylight,Low,Dry,110,2,65,No,Minor
+Highway,Rainy,Daylight,Low,Wet,40,3,75,No,Moderate
+Intersection,Clear,Daylight,High,Wet,120,3,24,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,60,2,22,No,Moderate
+Intersection,Clear,Dark - street lights,Low,Gravel,30,5,40,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,110,3,39,No,Moderate
+Urban,Rainy,Dark - no street lights,Low,Dry,90,2,68,No,Moderate
+Rural,Foggy,Daylight,Medium,Dry,120,2,53,No,Moderate
+Intersection,Clear,Daylight,Low,Dry,110,1,27,No,Moderate
+Highway,Clear,Daylight,High,Dry,100,5,79,No,Moderate
+Rural,Foggy,Daylight,Medium,Dry,30,2,51,No,Minor
+Rural,Clear,Daylight,High,Dry,30,3,51,No,Minor
+Urban,Rainy,Dark - street lights,Low,Gravel,100,2,45,No,Moderate
+Rural,Foggy,Daylight,Low,Wet,70,1,43,No,Severe
+Rural,Clear,Dark - street lights,Low,Dry,100,2,23,No,Minor
+Intersection,Foggy,Daylight,Low,Dry,110,2,46,No,Severe
+Urban,Clear,Daylight,High,Dry,80,2,40,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,80,2,51,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,90,1,65,No,Moderate
+Highway,Snowy,Dark - street lights,High,Wet,60,2,66,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,50,6,84,No,Minor
+Urban,Rainy,Daylight,Low,Dry,60,3,78,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,70,2,70,No,Moderate
+Urban,Clear,Dark - street lights,Low,Wet,80,2,83,No,Minor
+Rural,Foggy,Daylight,Low,Dry,50,4,61,No,Minor
+Intersection,Clear,Daylight,Medium,Wet,70,2,68,No,Minor
+Highway,Foggy,Daylight,Medium,Gravel,90,1,20,No,Severe
+Rural,Rainy,Daylight,Medium,Dry,100,2,21,No,Moderate
+Highway,Snowy,Daylight,Medium,Dry,90,2,49,No,Moderate
+Highway,Clear,Daylight,Medium,Gravel,100,2,52,No,Moderate
+Urban,Foggy,Daylight,Medium,Dry,120,2,57,No,Moderate
+Urban,Clear,Daylight,Low,Dry,110,3,35,No,Moderate
+Highway,Clear,Dark - no street lights,High,Dry,30,3,55,No,Moderate
+Urban,Foggy,Daylight,Low,Wet,90,3,46,No,Moderate
+Highway,Clear,Dark - street lights,High,Wet,70,2,52,No,Moderate
+Urban,Rainy,Dark - street lights,Low,Dry,60,2,37,No,Minor
+Highway,Clear,Daylight,Low,Wet,30,1,37,No,Minor
+Rural,Clear,Daylight,Medium,Dry,40,3,36,No,Minor
+Rural,Clear,Daylight,Low,Wet,90,3,33,Yes,Moderate
+Intersection,Clear,Dark - no street lights,Low,Wet,40,2,44,No,Minor
+Rural,Clear,Daylight,Medium,Dry,110,2,50,No,Minor
+Urban,Rainy,Dark - no street lights,Low,Dry,30,1,53,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Wet,120,1,29,No,Moderate
+Urban,Foggy,Dark - street lights,Low,Dry,50,3,31,No,Moderate
+Urban,Snowy,Dark - street lights,High,Wet,100,3,20,No,Severe
+Intersection,Clear,Daylight,Low,Wet,60,2,62,No,Minor
+Highway,Foggy,Dark - street lights,High,Dry,110,1,55,No,Moderate
+Rural,Clear,Dark - street lights,High,Dry,80,3,48,No,Minor
+Urban,Foggy,Dark - street lights,Low,Wet,110,1,54,No,Severe
+Highway,Clear,Dark - street lights,Low,Wet,60,1,42,No,Minor
+Highway,Rainy,Dark - street lights,Medium,Wet,70,1,46,No,Severe
+Urban,Clear,Dark - no street lights,Low,Wet,30,2,71,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Wet,70,1,45,Yes,Severe
+Highway,Clear,Daylight,Low,Dry,50,2,71,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,40,1,41,No,Minor
+Highway,Clear,Dark - no street lights,High,Dry,80,3,70,No,Moderate
+Highway,Rainy,Dark - street lights,Medium,Dry,110,4,50,No,Moderate
+Urban,Clear,Daylight,Low,Dry,70,1,46,No,Minor
+Urban,Rainy,Dark - no street lights,High,Gravel,110,2,37,No,Severe
+Urban,Foggy,Daylight,Low,Dry,120,2,45,No,Moderate
+Rural,Rainy,Daylight,High,Wet,120,3,30,No,Moderate
+Highway,Clear,Daylight,High,Dry,90,2,33,No,Moderate
+Urban,Rainy,Dark - street lights,Low,Wet,90,1,85,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,100,3,82,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,30,2,51,No,Minor
+Urban,Clear,Daylight,Medium,Wet,60,2,85,No,Minor
+Urban,Rainy,Daylight,High,Dry,90,2,62,No,Moderate
+Rural,Clear,Daylight,High,Wet,120,1,23,Yes,Severe
+Urban,Rainy,Daylight,Medium,Dry,30,1,36,No,Minor
+Rural,Clear,Daylight,Low,Dry,110,1,84,No,Moderate
+Highway,Rainy,Dark - no street lights,Medium,Wet,90,2,85,No,Severe
+Rural,Clear,Daylight,Medium,Dry,90,2,64,No,Moderate
+Urban,Foggy,Dark - street lights,Low,Dry,40,4,80,No,Moderate
+Highway,Clear,Dark - no street lights,Low,Dry,110,2,80,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,110,2,25,No,Moderate
+Rural,Clear,Daylight,Low,Dry,90,2,29,No,Minor
+Highway,Rainy,Dark - no street lights,Medium,Dry,120,1,57,No,Moderate
+Urban,Clear,Daylight,High,Wet,70,3,85,No,Moderate
+Highway,Foggy,Dark - street lights,Medium,Dry,50,2,33,No,Moderate
+Urban,Clear,Dark - no street lights,High,Dry,70,1,42,No,Minor
+Urban,Rainy,Dark - street lights,Low,Dry,60,2,47,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,90,2,35,No,Moderate
+Urban,Clear,Dark - no street lights,High,Gravel,60,3,43,No,Severe
+Intersection,Foggy,Daylight,Medium,Dry,60,2,23,No,Moderate
+Rural,Rainy,Daylight,High,Dry,110,2,22,No,Minor
+Urban,Snowy,Daylight,Medium,Wet,110,2,24,No,Severe
+Highway,Foggy,Dark - street lights,Low,Dry,70,2,24,No,Moderate
+Rural,Clear,Daylight,Low,Dry,110,1,70,No,Minor
+Urban,Clear,Dark - no street lights,High,Icy,40,2,38,No,Moderate
+Highway,Clear,Daylight,Medium,Wet,110,2,38,No,Moderate
+Highway,Rainy,Dark - no street lights,Medium,Wet,50,1,36,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,50,5,18,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Dry,100,1,78,No,Moderate
+Urban,Foggy,Daylight,Medium,Wet,60,1,36,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,80,4,24,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Dry,100,3,64,Yes,Severe
+Urban,Clear,Daylight,Medium,Dry,90,3,26,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,2,85,Yes,Moderate
+Highway,Rainy,Dark - no street lights,High,Dry,120,3,51,No,Severe
+Urban,Clear,Daylight,Medium,Dry,50,4,47,No,Minor
+Intersection,Clear,Daylight,Medium,Dry,60,3,71,No,Minor
+Rural,Clear,Daylight,Low,Wet,70,2,59,No,Moderate
+Urban,Clear,Daylight,Medium,Gravel,50,1,61,Yes,Minor
+Urban,Clear,Daylight,Medium,Wet,80,2,70,Yes,Moderate
+Urban,Clear,Daylight,Medium,Dry,30,1,60,No,Minor
+Intersection,Clear,Daylight,High,Dry,50,2,67,No,Minor
+Urban,Rainy,Daylight,High,Wet,70,2,81,No,Minor
+Urban,Clear,Daylight,Medium,Dry,60,4,74,No,Moderate
+Rural,Foggy,Daylight,Medium,Dry,110,2,59,No,Severe
+Intersection,Rainy,Daylight,Medium,Dry,110,1,57,Yes,Moderate
+Rural,Clear,Daylight,Medium,Dry,110,3,57,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,40,2,38,No,Minor
+Urban,Rainy,Daylight,Low,Dry,80,2,54,No,Moderate
+Intersection,Clear,Daylight,Low,Icy,30,1,24,No,Moderate
+Highway,Rainy,Dark - no street lights,Medium,Wet,100,2,57,No,Severe
+Rural,Clear,Dark - no street lights,High,Dry,40,3,77,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Gravel,50,4,51,Yes,Moderate
+Rural,Rainy,Dark - no street lights,Medium,Dry,100,1,79,No,Severe
+Urban,Rainy,Dark - street lights,Low,Dry,40,2,27,No,Minor
+Highway,Rainy,Daylight,High,Dry,80,1,73,No,Moderate
+Highway,Rainy,Daylight,Low,Wet,40,3,80,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,120,3,66,No,Minor
+Rural,Clear,Daylight,Low,Dry,30,3,37,No,Minor
+Highway,Clear,Dark - no street lights,Low,Wet,70,4,73,No,Severe
+Intersection,Snowy,Dark - street lights,Medium,Dry,50,4,25,No,Moderate
+Rural,Rainy,Daylight,High,Wet,60,2,68,No,Minor
+Rural,Clear,Daylight,Low,Dry,50,1,67,No,Minor
+Urban,Foggy,Daylight,Low,Dry,50,3,80,No,Moderate
+Intersection,Clear,Daylight,High,Wet,120,4,41,No,Moderate
+Highway,Clear,Daylight,Low,Dry,60,3,52,No,Minor
+Highway,Clear,Dark - no street lights,Medium,Wet,40,2,28,No,Moderate
+Intersection,Rainy,Daylight,Low,Icy,40,1,27,No,Minor
+Highway,Clear,Dark - street lights,High,Dry,30,2,83,No,Minor
+Urban,Snowy,Daylight,Low,Wet,120,3,51,No,Moderate
+Highway,Clear,Daylight,High,Wet,120,1,80,No,Moderate
+Urban,Clear,Daylight,High,Dry,40,2,37,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,110,4,61,Yes,Severe
+Rural,Rainy,Dark - street lights,Medium,Dry,100,3,39,No,Moderate
+Rural,Clear,Dark - street lights,High,Dry,50,2,78,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,90,1,75,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,80,5,73,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,60,3,42,No,Minor
+Rural,Snowy,Daylight,Low,Dry,40,1,30,No,Minor
+Rural,Clear,Daylight,Medium,Dry,120,2,45,Yes,Moderate
+Rural,Rainy,Daylight,High,Dry,120,3,41,No,Moderate
+Highway,Foggy,Dark - street lights,High,Dry,90,3,59,No,Moderate
+Rural,Clear,Daylight,Medium,Gravel,70,5,51,No,Severe
+Urban,Clear,Dark - street lights,Low,Dry,90,1,31,Yes,Severe
+Rural,Clear,Daylight,Medium,Dry,100,1,81,No,Minor
+Rural,Clear,Dark - street lights,High,Dry,110,3,80,No,Minor
+Highway,Rainy,Dark - street lights,Low,Dry,90,5,79,No,Moderate
+Urban,Clear,Daylight,High,Dry,80,2,61,No,Minor
+Highway,Rainy,Dark - street lights,Low,Dry,90,2,56,No,Severe
+Urban,Clear,Dark - street lights,Medium,Dry,60,1,48,No,Minor
+Urban,Clear,Daylight,Medium,Wet,100,5,20,No,Severe
+Urban,Clear,Dark - street lights,Medium,Dry,110,1,47,Yes,Severe
+Urban,Clear,Dark - street lights,Medium,Gravel,30,1,34,No,Minor
+Rural,Clear,Dark - street lights,High,Dry,40,1,46,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,40,5,35,No,Minor
+Urban,Clear,Daylight,Low,Wet,50,3,39,No,Minor
+Intersection,Clear,Daylight,High,Dry,50,1,80,No,Moderate
+Rural,Clear,Daylight,Medium,Wet,100,3,44,No,Moderate
+Urban,Clear,Daylight,Low,Wet,120,1,81,No,Severe
+Urban,Clear,Daylight,Low,Gravel,40,2,82,No,Moderate
+Rural,Rainy,Daylight,Low,Wet,100,2,38,No,Severe
+Urban,Clear,Daylight,High,Wet,30,1,24,Yes,Moderate
+Urban,Rainy,Daylight,Low,Icy,100,2,59,No,Moderate
+Urban,Clear,Daylight,Low,Dry,60,2,46,No,Minor
+Highway,Clear,Daylight,Low,Dry,50,2,35,No,Minor
+Urban,Clear,Daylight,Medium,Dry,40,4,76,No,Minor
+Rural,Clear,Daylight,Low,Wet,120,4,47,No,Moderate
+Intersection,Clear,Dark - street lights,Low,Wet,60,1,73,No,Minor
+Intersection,Clear,Daylight,Medium,Dry,30,1,78,No,Minor
+Highway,Rainy,Dark - street lights,Low,Dry,40,2,19,No,Moderate
+Highway,Clear,Daylight,Low,Gravel,30,2,57,No,Minor
+Highway,Snowy,Daylight,Low,Wet,50,3,65,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Wet,110,1,72,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,30,2,64,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,110,3,44,No,Minor
+Rural,Rainy,Dark - street lights,High,Wet,60,2,52,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,40,2,55,No,Minor
+Rural,Snowy,Dark - no street lights,Low,Icy,40,1,40,No,Severe
+Intersection,Clear,Daylight,Medium,Dry,60,2,20,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,1,47,No,Minor
+Highway,Clear,Daylight,Medium,Wet,100,2,85,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,70,3,24,No,Minor
+Urban,Foggy,Dark - street lights,Low,Dry,50,5,37,No,Severe
+Highway,Clear,Daylight,Low,Wet,80,5,36,No,Moderate
+Highway,Clear,Daylight,High,Dry,100,3,76,Yes,Severe
+Highway,Clear,Dark - street lights,Low,Icy,120,2,74,No,Severe
+Urban,Clear,Daylight,Medium,Dry,30,2,46,No,Minor
+Rural,Clear,Daylight,High,Dry,30,1,75,No,Minor
+Intersection,Snowy,Daylight,Medium,Dry,110,5,64,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,110,1,74,No,Moderate
+Highway,Clear,Daylight,Medium,Icy,90,1,29,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Dry,30,2,52,No,Moderate
+Highway,Rainy,Dark - street lights,Low,Dry,90,2,80,No,Severe
+Urban,Clear,Daylight,Low,Dry,70,2,78,No,Minor
+Rural,Clear,Daylight,High,Dry,30,1,53,No,Minor
+Urban,Clear,Daylight,Low,Wet,40,2,20,No,Minor
+Urban,Clear,Daylight,High,Dry,50,1,64,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Wet,50,3,39,No,Minor
+Intersection,Rainy,Dark - street lights,Medium,Wet,80,1,63,No,Moderate
+Urban,Clear,Daylight,High,Dry,50,2,42,No,Minor
+Highway,Rainy,Dark - no street lights,High,Wet,40,2,27,No,Moderate
+Urban,Rainy,Daylight,Medium,Gravel,110,3,61,No,Moderate
+Urban,Rainy,Daylight,Low,Wet,60,2,44,No,Moderate
+Rural,Clear,Dark - street lights,High,Dry,40,1,83,No,Minor
+Highway,Foggy,Daylight,Medium,Dry,40,3,44,No,Moderate
+Urban,Clear,Dark - street lights,Low,Dry,80,1,82,No,Moderate
+Highway,Clear,Daylight,High,Wet,110,1,42,Yes,Severe
+Urban,Rainy,Dark - no street lights,High,Wet,100,2,41,No,Severe
+Intersection,Clear,Daylight,Medium,Dry,60,2,58,No,Minor
+Rural,Rainy,Daylight,Low,Dry,40,2,76,No,Minor
+Urban,Snowy,Daylight,Medium,Dry,90,1,26,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,110,2,28,No,Minor
+Highway,Rainy,Dark - no street lights,Medium,Icy,50,1,43,No,Minor
+Urban,Rainy,Dark - street lights,Low,Wet,120,2,69,No,Moderate
+Rural,Foggy,Dark - no street lights,Medium,Dry,100,1,50,No,Severe
+Urban,Rainy,Dark - street lights,Medium,Dry,50,2,59,No,Moderate
+Highway,Clear,Daylight,High,Wet,100,1,81,No,Moderate
+Intersection,Clear,Dark - no street lights,Low,Dry,40,2,58,No,Moderate
+Highway,Clear,Daylight,Medium,Wet,50,2,35,No,Minor
+Highway,Clear,Daylight,Medium,Dry,110,4,82,No,Severe
+Urban,Clear,Daylight,Medium,Wet,70,2,21,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,90,2,63,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,4,32,No,Minor
+Highway,Foggy,Daylight,High,Dry,100,2,58,No,Moderate
+Highway,Clear,Dark - street lights,Low,Wet,80,2,61,No,Minor
+Urban,Rainy,Dark - no street lights,Low,Wet,60,2,24,No,Severe
+Highway,Rainy,Dark - street lights,High,Wet,120,1,61,No,Moderate
+Highway,Clear,Daylight,High,Dry,70,2,58,No,Minor
+Highway,Rainy,Daylight,High,Dry,30,2,84,No,Minor
+Intersection,Rainy,Daylight,High,Dry,120,4,73,Yes,Severe
+Rural,Clear,Daylight,Medium,Dry,70,3,70,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,120,1,48,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,90,2,22,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,100,3,25,No,Moderate
+Urban,Clear,Dark - no street lights,High,Dry,80,3,29,No,Moderate
+Urban,Clear,Daylight,Low,Wet,120,5,85,No,Moderate
+Intersection,Clear,Daylight,High,Dry,120,3,48,Yes,Moderate
+Urban,Clear,Daylight,High,Dry,110,2,32,No,Moderate
+Highway,Rainy,Dark - no street lights,High,Gravel,80,2,65,No,Severe
+Highway,Rainy,Dark - street lights,High,Wet,60,2,67,No,Moderate
+Intersection,Clear,Dark - street lights,Low,Wet,100,2,68,Yes,Severe
+Intersection,Rainy,Daylight,High,Dry,100,2,70,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,80,3,30,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,30,3,41,No,Minor
+Rural,Clear,Daylight,Medium,Dry,40,1,49,No,Minor
+Rural,Rainy,Dark - street lights,High,Dry,100,4,35,No,Moderate
+Rural,Rainy,Dark - street lights,Low,Dry,50,2,66,Yes,Moderate
+Intersection,Foggy,Dark - street lights,Medium,Icy,100,1,39,No,Severe
+Highway,Clear,Daylight,High,Dry,120,1,85,No,Moderate
+Rural,Clear,Dark - street lights,Low,Wet,70,2,81,No,Moderate
+Highway,Clear,Daylight,High,Wet,60,2,70,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,1,35,No,Minor
+Intersection,Clear,Daylight,Medium,Dry,120,2,30,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Wet,30,1,82,No,Moderate
+Urban,Clear,Daylight,High,Dry,120,1,39,No,Moderate
+Urban,Clear,Daylight,Low,Dry,30,5,81,No,Minor
+Rural,Rainy,Dark - no street lights,Low,Wet,120,3,51,No,Severe
+Rural,Clear,Dark - no street lights,Medium,Gravel,100,1,37,No,Severe
+Urban,Clear,Daylight,Medium,Dry,100,1,63,Yes,Moderate
+Urban,Rainy,Daylight,Medium,Dry,70,1,39,No,Minor
+Rural,Clear,Dark - street lights,Low,Gravel,30,2,41,No,Moderate
+Rural,Foggy,Daylight,Medium,Wet,90,2,31,No,Severe
+Urban,Clear,Dark - street lights,Medium,Dry,70,2,18,No,Moderate
+Highway,Foggy,Dark - no street lights,High,Wet,50,1,24,No,Severe
+Urban,Rainy,Dark - street lights,Medium,Dry,40,2,40,No,Minor
+Urban,Clear,Daylight,Medium,Dry,50,1,80,No,Minor
+Rural,Foggy,Dark - no street lights,Medium,Dry,40,3,83,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,50,2,72,No,Minor
+Highway,Snowy,Dark - street lights,Medium,Wet,100,2,85,No,Severe
+Rural,Clear,Dark - no street lights,Medium,Dry,60,2,55,No,Minor
+Highway,Foggy,Daylight,Medium,Dry,100,2,50,No,Moderate
+Urban,Rainy,Daylight,High,Wet,30,1,56,No,Minor
+Rural,Rainy,Daylight,High,Dry,50,1,28,No,Minor
+Urban,Clear,Daylight,Low,Dry,100,2,69,No,Minor
+Intersection,Clear,Daylight,Medium,Gravel,80,3,68,No,Moderate
+Urban,Rainy,Dark - street lights,Low,Dry,100,2,48,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,100,2,32,No,Moderate
+Intersection,Clear,Dark - no street lights,Medium,Dry,120,3,68,No,Severe
+Urban,Rainy,Dark - street lights,High,Wet,120,2,55,No,Moderate
+Rural,Foggy,Dark - no street lights,High,Dry,30,2,72,No,Moderate
+Highway,Clear,Dark - street lights,High,Dry,120,4,62,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,80,4,77,No,Moderate
+Urban,Rainy,Dark - no street lights,High,Wet,80,3,38,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,90,5,81,No,Severe
+Urban,Clear,Daylight,High,Dry,50,1,82,No,Minor
+Highway,Clear,Daylight,Low,Dry,80,3,52,No,Minor
+Intersection,Foggy,Dark - street lights,Low,Dry,100,3,32,Yes,Severe
+Intersection,Clear,Daylight,Medium,Dry,40,4,64,No,Minor
+Urban,Clear,Daylight,Medium,Dry,80,2,35,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,50,1,65,No,Moderate
+Highway,Rainy,Daylight,High,Dry,60,1,72,No,Minor
+Intersection,Rainy,Daylight,Low,Dry,30,3,84,Yes,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,30,2,37,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,110,4,58,No,Moderate
+Urban,Clear,Daylight,High,Wet,100,2,74,No,Severe
+Highway,Clear,Daylight,Low,Dry,50,2,54,No,Minor
+Highway,Clear,Daylight,Medium,Dry,110,2,48,No,Moderate
+Highway,Rainy,Dark - street lights,Low,Dry,40,1,33,No,Moderate
+Highway,Clear,Daylight,Low,Wet,120,2,47,No,Moderate
+Rural,Rainy,Dark - street lights,Medium,Dry,80,2,42,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,30,2,34,No,Minor
+Highway,Clear,Daylight,Medium,Dry,100,2,74,No,Moderate
+Intersection,Rainy,Daylight,Low,Dry,100,3,34,Yes,Moderate
+Rural,Clear,Daylight,Low,Dry,40,2,70,No,Minor
+Urban,Clear,Daylight,Low,Dry,80,2,80,No,Moderate
+Highway,Foggy,Daylight,Low,Dry,100,1,62,No,Severe
+Urban,Clear,Daylight,Medium,Dry,90,2,34,No,Minor
+Highway,Clear,Dark - no street lights,Medium,Wet,120,2,47,No,Severe
+Urban,Clear,Dark - street lights,Medium,Dry,40,4,21,No,Moderate
+Highway,Clear,Daylight,Low,Dry,120,3,84,No,Minor
+Highway,Foggy,Daylight,High,Dry,30,2,44,No,Minor
+Highway,Rainy,Dark - street lights,Medium,Dry,30,2,41,No,Minor
+Intersection,Clear,Daylight,Low,Dry,50,2,41,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,30,2,30,No,Minor
+Highway,Clear,Daylight,High,Dry,60,1,48,No,Minor
+Urban,Clear,Daylight,Medium,Dry,90,2,20,No,Minor
+Intersection,Rainy,Daylight,Medium,Wet,70,2,75,No,Moderate
+Intersection,Clear,Dark - no street lights,High,Dry,90,5,75,No,Severe
+Rural,Foggy,Dark - street lights,Medium,Dry,30,4,79,No,Moderate
+Intersection,Rainy,Daylight,High,Dry,50,3,26,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,90,1,82,Yes,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,80,2,76,Yes,Severe
+Urban,Foggy,Daylight,High,Dry,30,4,40,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,30,4,74,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Dry,30,1,65,Yes,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,120,2,46,No,Moderate
+Highway,Clear,Daylight,High,Wet,60,1,68,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,50,1,34,No,Minor
+Urban,Foggy,Dark - no street lights,High,Wet,70,1,20,Yes,Severe
+Urban,Clear,Daylight,High,Dry,30,4,59,No,Minor
+Intersection,Clear,Dark - street lights,Medium,Dry,30,4,46,No,Moderate
+Urban,Clear,Daylight,High,Wet,60,5,72,Yes,Moderate
+Intersection,Clear,Daylight,Low,Dry,30,2,21,No,Minor
+Urban,Clear,Daylight,Medium,Dry,80,2,48,Yes,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,40,5,22,No,Moderate
+Rural,Clear,Dark - street lights,Low,Dry,90,1,25,No,Minor
+Urban,Clear,Daylight,High,Dry,120,3,19,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,110,2,42,No,Moderate
+Urban,Rainy,Dark - street lights,High,Icy,50,2,50,No,Minor
+Urban,Clear,Daylight,Low,Dry,110,5,63,No,Moderate
+Intersection,Rainy,Daylight,Medium,Dry,80,5,84,No,Moderate
+Highway,Rainy,Dark - no street lights,Medium,Dry,60,2,43,No,Moderate
+Urban,Rainy,Dark - street lights,High,Dry,80,4,60,No,Moderate
+Highway,Rainy,Daylight,Low,Dry,60,3,77,No,Moderate
+Urban,Rainy,Dark - no street lights,Medium,Wet,60,2,18,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,30,5,43,No,Minor
+Urban,Foggy,Dark - street lights,Medium,Dry,50,1,40,No,Moderate
+Rural,Clear,Dark - street lights,Low,Gravel,70,2,65,No,Moderate
+Rural,Foggy,Dark - no street lights,High,Icy,40,1,34,No,Severe
+Urban,Clear,Dark - no street lights,Low,Dry,120,2,55,No,Moderate
+Urban,Clear,Dark - street lights,High,Wet,120,4,44,No,Moderate
+Highway,Clear,Daylight,High,Wet,80,2,77,No,Minor
+Rural,Clear,Daylight,High,Dry,120,2,22,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,80,2,28,No,Minor
+Urban,Clear,Daylight,Medium,Dry,120,2,75,No,Minor
+Urban,Clear,Daylight,Low,Dry,80,4,55,No,Moderate
+Highway,Rainy,Dark - street lights,High,Dry,40,2,43,No,Minor
+Rural,Rainy,Dark - street lights,Low,Dry,50,6,51,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Dry,120,3,19,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,110,2,77,No,Moderate
+Highway,Rainy,Daylight,Low,Wet,90,1,75,No,Severe
+Intersection,Clear,Dark - street lights,Medium,Wet,80,2,71,No,Moderate
+Rural,Rainy,Dark - street lights,Low,Dry,120,3,35,No,Moderate
+Highway,Clear,Dark - street lights,High,Gravel,60,5,26,No,Moderate
+Urban,Clear,Daylight,Medium,Icy,40,1,40,No,Minor
+Urban,Clear,Dark - no street lights,Low,Dry,110,1,25,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Gravel,50,2,79,No,Minor
+Urban,Foggy,Daylight,High,Wet,50,2,57,No,Moderate
+Highway,Rainy,Daylight,Low,Dry,40,3,49,No,Moderate
+Highway,Clear,Dark - street lights,Low,Icy,100,2,56,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,90,2,41,No,Moderate
+Urban,Foggy,Daylight,High,Dry,40,3,45,No,Moderate
+Highway,Rainy,Daylight,Medium,Wet,110,3,59,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,80,3,42,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Wet,100,2,28,No,Moderate
+Urban,Rainy,Dark - street lights,Low,Dry,40,1,33,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,80,1,22,No,Minor
+Urban,Rainy,Daylight,Medium,Wet,40,2,57,No,Minor
+Highway,Clear,Daylight,Low,Dry,60,1,20,No,Moderate
+Urban,Rainy,Daylight,High,Wet,50,3,23,No,Minor
+Urban,Clear,Daylight,Low,Dry,110,2,72,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,2,53,No,Minor
+Urban,Clear,Daylight,Medium,Dry,40,3,39,No,Minor
+Rural,Clear,Dark - no street lights,High,Dry,50,2,58,Yes,Moderate
+Rural,Clear,Daylight,High,Dry,110,2,47,No,Minor
+Urban,Rainy,Daylight,Low,Dry,60,2,25,No,Minor
+Highway,Clear,Daylight,Medium,Dry,120,6,74,No,Moderate
+Rural,Rainy,Daylight,High,Dry,70,3,47,No,Moderate
+Urban,Clear,Daylight,High,Wet,60,3,46,No,Minor
+Highway,Clear,Dark - no street lights,Low,Dry,50,4,34,No,Moderate
+Highway,Rainy,Dark - no street lights,Low,Dry,100,2,43,No,Severe
+Urban,Clear,Dark - street lights,Low,Wet,40,5,64,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,100,1,66,No,Moderate
+Urban,Clear,Daylight,Low,Dry,70,2,66,No,Minor
+Highway,Clear,Dark - street lights,Low,Gravel,30,1,82,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,120,1,22,Yes,Severe
+Urban,Foggy,Daylight,High,Gravel,80,2,80,No,Moderate
+Highway,Clear,Daylight,Medium,Gravel,80,2,21,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,120,2,38,No,Moderate
+Intersection,Clear,Dark - street lights,High,Dry,60,4,39,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Dry,70,3,29,No,Minor
+Rural,Clear,Daylight,Medium,Wet,30,6,80,No,Minor
+Urban,Rainy,Daylight,Medium,Wet,50,1,41,No,Minor
+Intersection,Clear,Dark - street lights,Low,Dry,50,3,42,No,Minor
+Intersection,Clear,Dark - street lights,Medium,Wet,50,1,28,No,Minor
+Highway,Clear,Dark - street lights,Low,Dry,30,2,23,No,Minor
+Highway,Clear,Dark - street lights,High,Wet,100,2,61,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,120,1,63,No,Moderate
+Rural,Clear,Dark - no street lights,Medium,Wet,50,1,33,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,90,2,18,Yes,Severe
+Intersection,Rainy,Daylight,Medium,Dry,80,3,47,No,Minor
+Urban,Clear,Dark - no street lights,High,Gravel,40,3,55,No,Moderate
+Rural,Foggy,Dark - no street lights,High,Wet,30,1,29,No,Moderate
+Intersection,Clear,Daylight,Low,Wet,60,1,39,No,Minor
+Rural,Clear,Daylight,Medium,Dry,80,4,53,No,Minor
+Intersection,Clear,Daylight,Medium,Wet,40,3,60,No,Moderate
+Intersection,Rainy,Dark - street lights,Medium,Dry,90,2,73,No,Severe
+Urban,Clear,Dark - street lights,High,Wet,40,2,34,No,Minor
+Intersection,Clear,Daylight,Low,Dry,90,5,58,No,Moderate
+Urban,Rainy,Dark - street lights,Low,Dry,100,2,55,No,Minor
+Highway,Clear,Dark - street lights,Low,Wet,30,2,57,No,Minor
+Rural,Clear,Dark - street lights,Low,Dry,90,1,60,No,Minor
+Rural,Rainy,Dark - no street lights,Low,Wet,50,4,68,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,80,3,68,No,Minor
+Rural,Clear,Dark - no street lights,Medium,Dry,40,1,24,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,60,3,43,No,Minor
+Urban,Rainy,Daylight,Medium,Gravel,50,2,72,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,80,2,37,No,Moderate
+Highway,Clear,Daylight,Medium,Wet,50,2,66,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,100,2,33,No,Moderate
+Urban,Rainy,Dark - no street lights,Low,Dry,120,2,30,No,Severe
+Rural,Clear,Daylight,Low,Dry,110,1,20,No,Moderate
+Rural,Rainy,Daylight,Low,Wet,110,3,33,No,Moderate
+Urban,Foggy,Dark - street lights,Low,Dry,80,1,34,No,Moderate
+Rural,Clear,Daylight,High,Dry,40,2,64,Yes,Moderate
+Rural,Clear,Daylight,High,Icy,70,2,74,No,Severe
+Highway,Clear,Dark - no street lights,High,Dry,110,1,30,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,120,2,34,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,100,1,50,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,80,2,83,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Dry,120,1,52,No,Severe
+Urban,Rainy,Daylight,Medium,Dry,60,2,30,No,Minor
+Intersection,Clear,Daylight,High,Dry,70,2,80,No,Minor
+Urban,Clear,Daylight,Low,Dry,90,1,69,No,Moderate
+Urban,Clear,Daylight,Low,Dry,90,2,52,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,80,3,82,No,Minor
+Intersection,Clear,Dark - street lights,High,Dry,40,5,70,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,70,2,81,No,Minor
+Urban,Foggy,Dark - street lights,High,Dry,100,2,33,No,Moderate
+Rural,Rainy,Dark - street lights,Medium,Dry,110,3,23,No,Moderate
+Intersection,Rainy,Dark - no street lights,Medium,Dry,40,2,35,No,Moderate
+Urban,Clear,Daylight,High,Dry,110,4,33,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,70,4,83,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,80,1,62,No,Minor
+Urban,Clear,Daylight,Medium,Dry,110,4,70,No,Minor
+Rural,Clear,Daylight,Low,Dry,50,2,52,No,Minor
+Highway,Rainy,Daylight,Medium,Dry,80,4,43,No,Moderate
+Highway,Clear,Daylight,Medium,Gravel,70,1,80,No,Moderate
+Rural,Rainy,Daylight,High,Icy,110,3,67,No,Severe
+Urban,Clear,Daylight,Medium,Dry,80,2,19,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,110,1,53,No,Moderate
+Urban,Rainy,Daylight,Medium,Wet,110,2,42,Yes,Moderate
+Highway,Rainy,Daylight,Low,Dry,60,4,72,No,Moderate
+Highway,Clear,Dark - street lights,High,Dry,90,2,83,No,Severe
+Urban,Clear,Daylight,High,Wet,60,2,24,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,70,5,64,No,Minor
+Urban,Rainy,Dark - street lights,High,Dry,80,3,64,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,120,1,42,No,Minor
+Highway,Clear,Dark - no street lights,Medium,Dry,100,6,43,No,Severe
+Highway,Rainy,Dark - no street lights,High,Wet,110,5,64,No,Severe
+Rural,Foggy,Daylight,Medium,Gravel,110,3,39,No,Severe
+Urban,Clear,Dark - street lights,Medium,Wet,90,2,83,Yes,Severe
+Urban,Rainy,Daylight,High,Dry,70,1,18,No,Moderate
+Intersection,Rainy,Daylight,Medium,Dry,70,4,55,No,Moderate
+Highway,Clear,Daylight,Low,Dry,50,5,53,Yes,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,80,2,65,No,Moderate
+Intersection,Foggy,Daylight,Low,Icy,70,2,25,No,Severe
+Rural,Clear,Daylight,Low,Wet,120,1,66,Yes,Moderate
+Urban,Rainy,Dark - street lights,Low,Dry,80,2,68,No,Moderate
+Urban,Foggy,Daylight,Low,Dry,50,1,80,Yes,Severe
+Urban,Clear,Daylight,High,Wet,120,1,36,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,120,1,67,No,Severe
+Rural,Rainy,Dark - street lights,Low,Dry,40,2,19,No,Moderate
+Highway,Rainy,Dark - no street lights,Low,Dry,120,4,38,No,Severe
+Highway,Clear,Daylight,Low,Dry,30,3,31,No,Moderate
+Highway,Clear,Daylight,Low,Dry,80,2,46,Yes,Moderate
+Rural,Rainy,Dark - street lights,High,Dry,40,1,54,No,Minor
+Intersection,Foggy,Dark - no street lights,Medium,Dry,110,2,41,No,Severe
+Urban,Rainy,Daylight,High,Dry,40,2,81,No,Moderate
+Rural,Clear,Daylight,High,Dry,50,2,67,No,Minor
+Rural,Snowy,Dark - street lights,Low,Dry,70,1,59,Yes,Severe
+Urban,Clear,Dark - street lights,Medium,Wet,80,1,49,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,40,2,71,No,Minor
+Urban,Clear,Daylight,Low,Wet,80,2,35,Yes,Minor
+Urban,Clear,Dark - street lights,High,Wet,70,2,71,No,Moderate
+Urban,Foggy,Dark - street lights,Medium,Dry,90,2,31,No,Moderate
+Urban,Rainy,Dark - no street lights,Low,Dry,40,1,19,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Dry,90,3,74,No,Moderate
+Rural,Clear,Daylight,High,Dry,50,2,19,No,Minor
+Highway,Rainy,Daylight,Medium,Dry,60,2,38,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,30,1,41,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,90,1,65,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,30,1,38,No,Minor
+Rural,Clear,Daylight,Medium,Dry,70,1,23,No,Minor
+Rural,Clear,Daylight,High,Dry,80,3,68,No,Minor
+Urban,Clear,Dark - street lights,Medium,Icy,110,1,37,No,Severe
+Rural,Clear,Dark - no street lights,Low,Dry,100,1,29,Yes,Severe
+Rural,Clear,Dark - street lights,High,Dry,120,2,61,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,90,1,27,Yes,Minor
+Urban,Clear,Dark - street lights,Medium,Wet,40,2,76,No,Minor
+Intersection,Clear,Daylight,Medium,Dry,50,3,76,No,Minor
+Intersection,Rainy,Daylight,Low,Dry,30,2,54,No,Minor
+Intersection,Foggy,Daylight,Medium,Wet,80,2,70,No,Moderate
+Rural,Rainy,Dark - street lights,Medium,Dry,110,1,31,No,Severe
+Urban,Clear,Daylight,Medium,Dry,40,2,77,No,Minor
+Urban,Rainy,Dark - no street lights,High,Wet,60,2,26,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Dry,30,2,78,No,Minor
+Intersection,Rainy,Daylight,High,Wet,100,1,45,No,Severe
+Intersection,Rainy,Daylight,Medium,Dry,40,2,28,No,Minor
+Highway,Rainy,Daylight,High,Dry,90,2,56,No,Minor
+Urban,Clear,Daylight,Medium,Dry,90,2,67,No,Minor
+Urban,Rainy,Daylight,Low,Wet,80,1,76,Yes,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,30,6,34,No,Minor
+Urban,Rainy,Daylight,Medium,Wet,120,2,62,No,Moderate
+Urban,Rainy,Dark - no street lights,Medium,Dry,70,4,82,No,Severe
+Intersection,Clear,Daylight,High,Dry,80,1,40,No,Minor
+Urban,Clear,Daylight,Medium,Dry,90,2,30,Yes,Moderate
+Rural,Clear,Daylight,Medium,Wet,110,1,74,No,Moderate
+Rural,Rainy,Dark - no street lights,Low,Wet,110,2,43,No,Severe
+Rural,Clear,Dark - no street lights,Medium,Wet,90,1,65,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Icy,90,3,18,No,Severe
+Urban,Clear,Dark - street lights,High,Dry,80,1,73,No,Moderate
+Intersection,Clear,Dark - street lights,High,Wet,120,2,67,Yes,Severe
+Highway,Clear,Daylight,High,Dry,120,3,51,No,Moderate
+Urban,Clear,Daylight,Low,Dry,120,1,28,No,Moderate
+Intersection,Rainy,Dark - street lights,Low,Wet,60,2,49,No,Moderate
+Rural,Clear,Daylight,Low,Dry,50,2,31,No,Minor
+Urban,Clear,Daylight,Low,Wet,60,2,80,No,Minor
+Highway,Clear,Dark - street lights,Low,Dry,80,2,75,No,Moderate
+Urban,Clear,Dark - street lights,Low,Gravel,80,2,18,No,Moderate
+Rural,Foggy,Daylight,Low,Dry,110,3,45,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,100,1,29,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,90,4,50,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,60,5,80,No,Minor
+Highway,Clear,Daylight,Medium,Dry,90,2,63,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,110,2,21,No,Moderate
+Rural,Clear,Daylight,Low,Dry,80,2,58,No,Minor
+Urban,Clear,Dark - street lights,High,Dry,90,2,45,No,Moderate
+Urban,Clear,Dark - street lights,High,Wet,40,2,71,No,Minor
+Urban,Clear,Daylight,Low,Dry,40,1,39,No,Minor
+Highway,Clear,Daylight,Low,Wet,120,6,77,No,Severe
+Intersection,Foggy,Daylight,Medium,Dry,40,3,71,No,Minor
+Urban,Rainy,Daylight,Medium,Dry,120,1,56,No,Minor
+Intersection,Clear,Daylight,Medium,Dry,30,3,35,No,Minor
+Urban,Rainy,Daylight,Low,Dry,80,3,18,Yes,Moderate
+Rural,Clear,Dark - no street lights,Low,Dry,120,3,66,No,Moderate
+Urban,Clear,Daylight,Low,Wet,120,4,70,No,Moderate
+Urban,Clear,Daylight,Low,Wet,100,1,51,No,Minor
+Rural,Clear,Dark - street lights,Low,Dry,60,3,27,Yes,Moderate
+Urban,Rainy,Daylight,Low,Dry,120,3,83,No,Moderate
+Rural,Clear,Daylight,Low,Dry,50,1,64,No,Minor
+Urban,Clear,Daylight,Medium,Wet,120,2,36,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,2,75,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,2,30,No,Moderate
+Highway,Foggy,Daylight,Low,Dry,70,2,81,No,Moderate
+Urban,Clear,Daylight,High,Dry,60,1,30,No,Minor
+Intersection,Rainy,Daylight,Medium,Dry,70,2,39,No,Minor
+Highway,Rainy,Daylight,Medium,Wet,100,3,48,No,Severe
+Rural,Clear,Daylight,Medium,Gravel,100,2,20,No,Moderate
+Rural,Rainy,Dark - street lights,High,Dry,100,4,78,No,Severe
+Rural,Clear,Dark - no street lights,High,Dry,50,3,30,No,Minor
+Highway,Clear,Daylight,Medium,Dry,100,1,63,No,Minor
+Urban,Clear,Dark - street lights,High,Wet,100,1,84,No,Severe
+Intersection,Rainy,Daylight,Medium,Dry,90,2,29,No,Moderate
+Intersection,Rainy,Dark - no street lights,High,Wet,100,6,85,No,Severe
+Urban,Clear,Dark - no street lights,Low,Dry,120,2,61,No,Moderate
+Urban,Rainy,Daylight,High,Dry,40,5,81,Yes,Severe
+Highway,Clear,Daylight,Low,Dry,40,3,19,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,80,2,18,No,Moderate
+Rural,Clear,Dark - no street lights,Medium,Gravel,70,1,43,No,Severe
+Intersection,Clear,Daylight,High,Dry,90,2,30,No,Moderate
+Urban,Clear,Dark - no street lights,High,Dry,60,2,71,No,Minor
+Urban,Clear,Daylight,Medium,Dry,90,3,73,No,Minor
+Highway,Rainy,Daylight,Medium,Dry,90,2,21,Yes,Severe
+Highway,Rainy,Dark - street lights,Medium,Dry,110,2,55,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Wet,40,1,31,No,Minor
+Urban,Clear,Daylight,Medium,Dry,120,3,24,No,Minor
+Intersection,Clear,Dark - no street lights,Medium,Dry,70,3,18,No,Moderate
+Highway,Clear,Daylight,Low,Wet,110,1,44,No,Moderate
+Highway,Foggy,Daylight,Medium,Dry,60,3,51,No,Moderate
+Rural,Rainy,Dark - street lights,Medium,Dry,50,1,48,No,Minor
+Highway,Clear,Dark - street lights,High,Dry,70,2,31,No,Minor
+Rural,Clear,Daylight,Low,Dry,120,2,74,No,Severe
+Highway,Rainy,Daylight,High,Dry,110,1,85,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,50,2,56,Yes,Moderate
+Highway,Foggy,Dark - street lights,Low,Wet,110,3,85,No,Severe
+Rural,Clear,Dark - street lights,Medium,Wet,40,1,38,No,Minor
+Rural,Clear,Daylight,High,Gravel,60,1,40,No,Minor
+Highway,Snowy,Dark - no street lights,Low,Dry,30,3,27,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,120,2,43,No,Moderate
+Highway,Clear,Daylight,Low,Wet,60,1,21,No,Minor
+Rural,Foggy,Daylight,Medium,Dry,40,2,85,No,Minor
+Rural,Clear,Daylight,Medium,Dry,110,4,26,No,Minor
+Highway,Clear,Daylight,Low,Dry,30,2,60,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,50,5,27,No,Minor
+Highway,Clear,Dark - street lights,Medium,Icy,120,2,51,No,Severe
+Urban,Clear,Daylight,High,Dry,60,2,60,Yes,Minor
+Urban,Clear,Dark - no street lights,High,Wet,30,2,27,Yes,Moderate
+Highway,Clear,Daylight,Medium,Gravel,70,3,31,No,Minor
+Highway,Clear,Dark - street lights,High,Dry,30,1,43,No,Minor
+Intersection,Rainy,Dark - street lights,Medium,Dry,90,3,73,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,30,1,29,No,Minor
+Urban,Rainy,Dark - no street lights,High,Dry,30,4,49,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,70,1,68,No,Minor
+Urban,Clear,Daylight,Medium,Dry,80,4,46,No,Minor
+Highway,Foggy,Daylight,High,Dry,110,2,24,No,Severe
+Highway,Foggy,Daylight,Low,Gravel,110,1,44,No,Severe
+Urban,Clear,Daylight,High,Gravel,30,2,22,No,Minor
+Highway,Clear,Dark - no street lights,Low,Wet,90,2,66,No,Severe
+Urban,Clear,Daylight,Medium,Dry,80,4,61,Yes,Moderate
+Intersection,Rainy,Dark - street lights,High,Dry,120,2,72,No,Severe
+Rural,Clear,Dark - no street lights,High,Dry,110,2,84,No,Moderate
+Intersection,Clear,Dark - no street lights,Low,Icy,70,3,53,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,120,1,57,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,1,63,No,Moderate
+Urban,Foggy,Daylight,Medium,Dry,40,2,51,No,Minor
+Urban,Foggy,Daylight,Medium,Dry,120,2,47,No,Severe
+Intersection,Clear,Daylight,Medium,Dry,70,5,20,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Dry,40,2,32,No,Minor
+Urban,Rainy,Daylight,Medium,Wet,50,1,64,No,Moderate
+Highway,Rainy,Daylight,High,Dry,50,2,55,Yes,Moderate
+Highway,Rainy,Daylight,High,Dry,120,3,45,No,Moderate
+Highway,Rainy,Daylight,High,Dry,40,5,46,No,Moderate
+Rural,Clear,Daylight,High,Wet,120,2,85,No,Moderate
+Urban,Clear,Daylight,High,Dry,80,1,58,No,Minor
+Rural,Foggy,Daylight,Medium,Dry,80,2,47,No,Moderate
+Highway,Clear,Dark - street lights,Low,Dry,90,3,35,No,Moderate
+Urban,Clear,Daylight,Low,Dry,60,4,76,No,Minor
+Urban,Clear,Daylight,High,Wet,50,4,73,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,110,1,55,No,Moderate
+Intersection,Foggy,Dark - street lights,Medium,Gravel,30,1,63,Yes,Severe
+Rural,Clear,Dark - street lights,Medium,Wet,120,4,83,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,100,1,53,Yes,Severe
+Urban,Clear,Dark - no street lights,Medium,Wet,90,2,67,No,Severe
+Urban,Clear,Dark - street lights,Medium,Gravel,60,2,53,No,Minor
+Urban,Clear,Daylight,Medium,Icy,70,4,51,Yes,Moderate
+Rural,Foggy,Dark - street lights,Low,Dry,110,3,21,No,Severe
+Highway,Clear,Daylight,High,Dry,70,5,72,No,Moderate
+Highway,Rainy,Daylight,Low,Wet,40,2,73,No,Moderate
+Urban,Rainy,Dark - no street lights,High,Wet,60,3,59,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,80,4,22,No,Moderate
+Urban,Rainy,Dark - street lights,High,Dry,30,1,66,No,Minor
+Urban,Clear,Daylight,Medium,Dry,100,2,43,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,50,1,51,No,Minor
+Rural,Clear,Daylight,Medium,Gravel,70,3,55,No,Minor
+Highway,Clear,Daylight,Low,Gravel,70,2,75,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,90,3,79,No,Moderate
+Rural,Clear,Daylight,Low,Wet,90,1,59,No,Minor
+Urban,Clear,Daylight,Medium,Gravel,70,2,46,No,Moderate
+Highway,Clear,Daylight,Low,Dry,120,2,34,No,Minor
+Urban,Rainy,Dark - street lights,Low,Wet,80,3,26,No,Moderate
+Urban,Clear,Daylight,High,Dry,50,4,60,No,Minor
+Highway,Clear,Daylight,High,Wet,110,1,68,No,Moderate
+Urban,Rainy,Dark - street lights,Low,Wet,90,2,34,No,Moderate
+Intersection,Foggy,Daylight,Medium,Wet,90,1,37,No,Moderate
+Rural,Rainy,Dark - street lights,Medium,Wet,70,2,43,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,90,2,79,No,Moderate
+Highway,Snowy,Dark - street lights,High,Wet,40,2,21,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,1,39,No,Minor
+Urban,Clear,Dark - street lights,Medium,Wet,60,1,81,No,Minor
+Urban,Clear,Daylight,Medium,Dry,90,4,52,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Wet,110,2,28,Yes,Moderate
+Highway,Clear,Daylight,Low,Dry,40,1,74,No,Moderate
+Highway,Rainy,Daylight,Low,Wet,90,2,55,No,Severe
+Intersection,Rainy,Dark - no street lights,Low,Dry,80,2,39,No,Moderate
+Highway,Rainy,Daylight,Low,Dry,80,4,35,No,Moderate
+Rural,Clear,Daylight,Low,Dry,30,2,42,No,Minor
+Urban,Rainy,Dark - street lights,Low,Dry,60,2,19,Yes,Moderate
+Urban,Rainy,Dark - no street lights,Medium,Dry,120,3,50,No,Moderate
+Highway,Clear,Daylight,Low,Dry,50,3,67,No,Minor
+Rural,Clear,Daylight,High,Wet,100,1,18,No,Moderate
+Rural,Clear,Daylight,High,Dry,30,1,74,No,Minor
+Highway,Clear,Dark - street lights,Low,Dry,90,3,63,No,Minor
+Intersection,Rainy,Dark - no street lights,High,Wet,50,3,74,No,Moderate
+Rural,Rainy,Daylight,Medium,Dry,30,4,77,No,Minor
+Highway,Foggy,Dark - no street lights,Low,Dry,30,1,64,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,30,2,22,No,Minor
+Intersection,Rainy,Daylight,Low,Dry,30,4,78,Yes,Moderate
+Rural,Clear,Daylight,High,Wet,40,1,21,No,Minor
+Urban,Rainy,Daylight,High,Dry,100,2,25,No,Minor
+Intersection,Clear,Dark - no street lights,Medium,Wet,80,3,58,No,Severe
+Rural,Clear,Daylight,Medium,Dry,30,1,82,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,90,1,18,No,Moderate
+Highway,Rainy,Daylight,High,Dry,40,1,29,No,Minor
+Highway,Foggy,Dark - street lights,High,Dry,80,2,49,No,Moderate
+Intersection,Rainy,Dark - street lights,Medium,Dry,70,1,35,No,Minor
+Highway,Rainy,Daylight,Low,Gravel,70,3,51,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,120,2,44,Yes,Severe
+Highway,Rainy,Dark - street lights,Low,Dry,110,2,52,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,50,2,59,No,Minor
+Urban,Clear,Daylight,Medium,Dry,30,1,78,No,Minor
+Intersection,Clear,Daylight,Low,Dry,120,2,73,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,90,2,47,No,Moderate
+Highway,Rainy,Dark - no street lights,Medium,Dry,110,1,56,No,Moderate
+Intersection,Foggy,Daylight,High,Wet,50,2,24,Yes,Moderate
+Rural,Clear,Daylight,Low,Dry,50,2,28,No,Minor
+Intersection,Clear,Dark - street lights,Low,Dry,80,1,38,No,Minor
+Rural,Foggy,Dark - street lights,High,Wet,40,2,58,No,Moderate
+Urban,Rainy,Dark - no street lights,High,Wet,90,2,27,No,Moderate
+Urban,Foggy,Daylight,Low,Dry,110,3,68,Yes,Moderate
+Rural,Clear,Daylight,Low,Dry,80,2,41,No,Minor
+Rural,Clear,Dark - no street lights,Medium,Dry,110,3,77,No,Severe
+Urban,Rainy,Dark - street lights,Medium,Wet,50,2,82,No,Minor
+Intersection,Clear,Dark - street lights,Medium,Dry,40,2,75,No,Minor
+Rural,Rainy,Dark - street lights,High,Dry,50,6,67,No,Minor
+Intersection,Rainy,Daylight,Medium,Dry,100,2,77,No,Moderate
+Urban,Clear,Daylight,High,Wet,70,2,55,No,Moderate
+Urban,Clear,Daylight,Low,Dry,40,2,22,No,Minor
+Highway,Clear,Daylight,Low,Dry,100,2,53,No,Minor
+Intersection,Foggy,Dark - no street lights,High,Dry,30,1,65,No,Moderate
+Highway,Rainy,Dark - street lights,Low,Dry,40,2,56,No,Moderate
+Urban,Rainy,Dark - no street lights,High,Dry,40,3,51,Yes,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,120,2,73,No,Moderate
+Highway,Clear,Daylight,Low,Dry,30,2,20,No,Minor
+Rural,Clear,Daylight,High,Dry,40,1,20,No,Minor
+Rural,Clear,Daylight,Medium,Dry,110,2,19,No,Moderate
+Urban,Rainy,Daylight,High,Dry,110,3,67,No,Severe
+Intersection,Rainy,Daylight,Medium,Dry,110,2,55,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,120,2,20,No,Moderate
+Intersection,Clear,Daylight,Medium,Gravel,40,1,45,No,Moderate
+Urban,Clear,Dark - no street lights,High,Gravel,90,2,63,No,Moderate
+Urban,Clear,Daylight,High,Gravel,80,2,68,No,Moderate
+Highway,Rainy,Daylight,High,Dry,50,2,18,No,Minor
+Urban,Foggy,Daylight,Medium,Gravel,90,1,21,No,Severe
+Urban,Clear,Dark - no street lights,Medium,Wet,30,2,49,No,Minor
+Intersection,Clear,Dark - street lights,High,Dry,110,4,38,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,50,2,21,No,Minor
+Highway,Snowy,Dark - street lights,High,Dry,40,3,60,No,Moderate
+Intersection,Clear,Dark - street lights,Low,Wet,90,4,78,No,Severe
+Urban,Rainy,Daylight,High,Dry,110,3,74,No,Moderate
+Rural,Clear,Daylight,High,Wet,80,2,83,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Wet,50,2,61,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,100,4,80,No,Moderate
+Rural,Clear,Daylight,Low,Dry,30,3,36,No,Minor
+Urban,Foggy,Daylight,Medium,Dry,50,2,57,No,Minor
+Rural,Rainy,Daylight,Low,Dry,60,1,45,No,Minor
+Urban,Clear,Daylight,Medium,Wet,110,2,39,Yes,Moderate
+Highway,Clear,Daylight,High,Dry,110,2,79,No,Moderate
+Urban,Foggy,Daylight,Medium,Dry,70,2,33,No,Minor
+Intersection,Foggy,Dark - street lights,High,Wet,110,4,43,No,Severe
+Urban,Rainy,Dark - no street lights,Medium,Dry,110,3,28,Yes,Severe
+Urban,Clear,Dark - street lights,Medium,Wet,60,1,76,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,40,4,34,No,Moderate
+Highway,Clear,Daylight,Medium,Wet,80,3,27,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,2,19,No,Moderate
+Intersection,Rainy,Daylight,High,Dry,100,6,50,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,70,2,49,No,Minor
+Highway,Clear,Dark - street lights,Low,Dry,110,2,38,No,Moderate
+Rural,Rainy,Daylight,High,Dry,110,3,42,No,Moderate
+Highway,Clear,Daylight,Low,Dry,120,1,37,No,Minor
+Urban,Clear,Daylight,Low,Wet,80,5,78,No,Moderate
+Urban,Foggy,Daylight,High,Dry,50,2,63,No,Minor
+Urban,Clear,Daylight,High,Dry,90,1,70,No,Moderate
+Rural,Clear,Dark - street lights,Low,Wet,70,3,21,No,Minor
+Rural,Clear,Daylight,Low,Dry,110,2,53,No,Moderate
+Highway,Rainy,Daylight,High,Dry,90,3,80,No,Severe
+Intersection,Clear,Daylight,Low,Dry,110,2,54,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,70,2,29,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,30,1,26,No,Minor
+Intersection,Clear,Dark - street lights,Medium,Dry,80,2,76,No,Minor
+Urban,Snowy,Daylight,Medium,Gravel,50,1,70,No,Moderate
+Rural,Clear,Dark - no street lights,Medium,Dry,30,5,59,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,110,3,38,No,Moderate
+Intersection,Clear,Dark - no street lights,High,Wet,90,3,77,No,Severe
+Intersection,Rainy,Dark - street lights,Low,Dry,80,2,73,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,60,2,59,No,Minor
+Rural,Clear,Dark - street lights,High,Icy,120,1,36,No,Moderate
+Highway,Rainy,Dark - street lights,Medium,Gravel,80,4,47,No,Severe
+Urban,Clear,Dark - no street lights,Low,Gravel,80,1,74,No,Moderate
+Intersection,Rainy,Daylight,Low,Dry,60,1,66,No,Minor
+Urban,Foggy,Daylight,Medium,Dry,50,3,33,Yes,Moderate
+Intersection,Clear,Daylight,Low,Dry,100,2,32,Yes,Moderate
+Urban,Clear,Daylight,High,Dry,80,5,26,No,Minor
+Intersection,Clear,Dark - street lights,Medium,Dry,70,3,59,No,Minor
+Rural,Clear,Daylight,Medium,Dry,100,3,25,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,110,5,41,No,Moderate
+Intersection,Rainy,Daylight,Low,Dry,80,4,51,No,Moderate
+Urban,Clear,Dark - street lights,Low,Dry,110,2,85,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,2,71,No,Moderate
+Highway,Rainy,Daylight,Medium,Icy,50,2,64,Yes,Moderate
+Rural,Clear,Daylight,High,Dry,50,1,34,No,Minor
+Rural,Rainy,Daylight,Medium,Dry,70,1,56,No,Moderate
+Intersection,Rainy,Daylight,Medium,Icy,50,2,65,No,Minor
+Urban,Foggy,Daylight,Low,Dry,50,1,22,No,Minor
+Urban,Clear,Daylight,Medium,Wet,60,2,69,No,Minor
+Highway,Clear,Daylight,High,Gravel,80,6,41,No,Moderate
+Rural,Clear,Daylight,Medium,Wet,80,3,51,No,Minor
+Intersection,Clear,Daylight,Medium,Dry,110,3,34,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Wet,110,1,83,No,Severe
+Urban,Rainy,Daylight,Medium,Dry,110,2,64,No,Moderate
+Rural,Snowy,Daylight,Low,Wet,120,1,37,No,Severe
+Urban,Clear,Dark - no street lights,Medium,Dry,110,5,78,No,Moderate
+Urban,Foggy,Daylight,Low,Dry,70,1,26,No,Minor
+Rural,Rainy,Dark - street lights,High,Dry,50,2,68,No,Minor
+Urban,Clear,Daylight,High,Dry,90,1,37,No,Moderate
+Urban,Rainy,Daylight,Medium,Wet,120,2,74,No,Severe
+Urban,Rainy,Daylight,Low,Gravel,80,4,23,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Wet,70,1,31,No,Moderate
+Rural,Foggy,Dark - no street lights,Low,Wet,100,3,73,No,Severe
+Urban,Rainy,Daylight,Low,Dry,90,2,50,Yes,Moderate
+Urban,Clear,Dark - street lights,Low,Dry,120,2,52,No,Moderate
+Highway,Rainy,Daylight,Medium,Gravel,90,1,31,No,Moderate
+Rural,Foggy,Daylight,Low,Wet,80,2,71,No,Moderate
+Rural,Clear,Daylight,High,Dry,90,3,73,No,Moderate
+Urban,Clear,Daylight,High,Dry,90,3,76,No,Moderate
+Urban,Snowy,Daylight,Medium,Dry,100,3,51,No,Severe
+Urban,Clear,Dark - no street lights,Medium,Wet,80,3,40,No,Moderate
+Highway,Rainy,Dark - street lights,Low,Wet,40,4,29,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,2,74,No,Moderate
+Urban,Clear,Dark - street lights,High,Wet,110,2,40,No,Minor
+Rural,Clear,Daylight,Medium,Wet,90,4,36,No,Moderate
+Intersection,Clear,Dark - no street lights,High,Icy,70,2,28,No,Moderate
+Urban,Rainy,Daylight,Low,Gravel,30,2,46,No,Moderate
+Urban,Clear,Daylight,Low,Dry,100,2,42,No,Moderate
+Rural,Clear,Dark - street lights,High,Gravel,70,3,64,No,Moderate
+Intersection,Foggy,Daylight,Medium,Gravel,50,2,49,No,Moderate
+Highway,Clear,Dark - no street lights,High,Wet,110,2,47,No,Moderate
+Highway,Snowy,Daylight,Medium,Dry,120,2,73,No,Moderate
+Intersection,Clear,Daylight,Medium,Icy,100,4,36,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,90,3,35,Yes,Severe
+Urban,Clear,Daylight,Medium,Dry,120,3,83,Yes,Severe
+Rural,Clear,Daylight,Medium,Wet,80,2,27,No,Moderate
+Highway,Rainy,Dark - street lights,Low,Dry,50,3,21,No,Moderate
+Urban,Foggy,Daylight,High,Dry,90,2,78,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,100,1,51,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,120,1,25,No,Severe
+Urban,Clear,Dark - no street lights,Low,Dry,70,1,65,No,Moderate
+Highway,Clear,Daylight,Medium,Wet,50,2,40,No,Minor
+Rural,Foggy,Daylight,Low,Wet,30,2,33,No,Moderate
+Urban,Clear,Daylight,High,Dry,120,1,61,Yes,Moderate
+Intersection,Clear,Daylight,Medium,Dry,110,1,49,No,Moderate
+Urban,Clear,Daylight,High,Gravel,120,1,84,No,Severe
+Rural,Foggy,Daylight,Medium,Dry,110,2,54,No,Moderate
+Intersection,Clear,Daylight,Low,Dry,40,2,79,No,Minor
+Urban,Snowy,Dark - street lights,High,Wet,110,3,42,Yes,Severe
+Intersection,Clear,Dark - street lights,Medium,Dry,30,5,67,No,Moderate
+Intersection,Clear,Dark - street lights,High,Wet,110,3,83,No,Moderate
+Urban,Foggy,Dark - no street lights,Medium,Dry,60,2,19,No,Minor
+Highway,Foggy,Daylight,Low,Icy,80,6,67,No,Moderate
+Urban,Clear,Daylight,Medium,Icy,90,3,57,No,Severe
+Intersection,Rainy,Daylight,Medium,Dry,90,2,42,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Wet,60,1,32,No,Minor
+Intersection,Clear,Daylight,Medium,Gravel,70,5,68,No,Moderate
+Urban,Rainy,Daylight,High,Dry,40,2,81,No,Moderate
+Highway,Clear,Daylight,Low,Dry,90,1,26,No,Minor
+Urban,Clear,Daylight,High,Wet,60,3,58,No,Minor
+Urban,Clear,Dark - no street lights,Low,Dry,100,1,25,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,1,49,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,2,20,No,Minor
+Urban,Clear,Daylight,Low,Dry,120,1,67,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,100,4,67,No,Moderate
+Rural,Rainy,Dark - street lights,Medium,Gravel,100,2,37,No,Moderate
+Intersection,Clear,Daylight,Medium,Gravel,90,6,38,No,Severe
+Urban,Clear,Dark - street lights,Medium,Dry,90,1,63,No,Moderate
+Highway,Foggy,Daylight,Medium,Gravel,100,2,59,No,Severe
+Urban,Rainy,Daylight,High,Wet,120,2,77,No,Severe
+Rural,Clear,Dark - street lights,Low,Dry,40,2,75,No,Minor
+Highway,Clear,Daylight,Medium,Dry,90,4,73,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,120,3,69,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,120,4,85,No,Moderate
+Intersection,Rainy,Dark - street lights,Low,Dry,30,2,29,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Icy,120,4,75,No,Severe
+Rural,Clear,Daylight,Medium,Icy,50,1,33,No,Minor
+Highway,Clear,Dark - no street lights,Medium,Icy,40,2,36,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,30,2,64,Yes,Moderate
+Intersection,Snowy,Dark - no street lights,Medium,Icy,40,4,26,No,Severe
+Highway,Rainy,Dark - no street lights,Low,Gravel,60,5,59,No,Severe
+Urban,Snowy,Daylight,Medium,Dry,50,2,50,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Icy,30,2,57,No,Moderate
+Urban,Snowy,Dark - street lights,Medium,Dry,30,1,19,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,70,3,60,No,Minor
+Highway,Rainy,Daylight,Medium,Dry,60,2,52,No,Minor
+Highway,Rainy,Dark - street lights,High,Wet,40,1,34,No,Moderate
+Urban,Clear,Dark - street lights,High,Wet,30,3,61,No,Minor
+Highway,Clear,Dark - street lights,High,Dry,80,3,31,No,Moderate
+Intersection,Foggy,Daylight,Medium,Dry,90,3,47,No,Moderate
+Rural,Clear,Dark - street lights,Low,Wet,100,2,41,No,Moderate
+Intersection,Clear,Daylight,Low,Gravel,70,1,42,No,Minor
+Rural,Clear,Daylight,Medium,Gravel,50,2,55,No,Minor
+Highway,Rainy,Dark - street lights,Medium,Wet,70,2,38,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,40,3,75,No,Minor
+Highway,Foggy,Daylight,Medium,Wet,40,2,58,No,Moderate
+Rural,Clear,Daylight,High,Dry,60,1,39,No,Minor
+Highway,Foggy,Dark - street lights,High,Dry,100,2,36,No,Severe
+Highway,Foggy,Dark - no street lights,High,Dry,50,2,19,No,Severe
+Urban,Foggy,Daylight,Low,Dry,70,2,20,No,Minor
+Urban,Rainy,Dark - no street lights,Low,Dry,120,3,73,No,Severe
+Rural,Clear,Daylight,High,Wet,120,2,48,No,Minor
+Highway,Clear,Daylight,High,Dry,80,2,72,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,100,1,75,No,Moderate
+Urban,Foggy,Dark - street lights,High,Icy,100,3,61,No,Severe
+Urban,Clear,Dark - street lights,High,Dry,120,2,49,No,Moderate
+Highway,Clear,Daylight,Low,Wet,120,2,85,No,Moderate
+Intersection,Clear,Daylight,High,Wet,70,3,64,No,Minor
+Urban,Clear,Dark - street lights,Medium,Wet,100,2,52,Yes,Moderate
+Intersection,Clear,Dark - street lights,Low,Gravel,120,1,25,No,Moderate
+Urban,Rainy,Daylight,High,Dry,30,2,44,No,Moderate
+Rural,Clear,Daylight,High,Dry,90,2,74,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,50,2,59,Yes,Moderate
+Highway,Clear,Daylight,Medium,Dry,90,2,68,No,Moderate
+Highway,Rainy,Dark - street lights,Medium,Wet,30,4,25,No,Moderate
+Intersection,Clear,Daylight,Low,Wet,40,3,63,No,Minor
+Highway,Rainy,Daylight,Medium,Dry,90,3,29,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,30,2,46,No,Minor
+Urban,Rainy,Dark - no street lights,High,Dry,80,2,68,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,60,1,80,No,Minor
+Rural,Clear,Daylight,High,Dry,60,1,18,Yes,Moderate
+Highway,Clear,Daylight,Low,Dry,80,1,51,No,Minor
+Rural,Clear,Daylight,High,Wet,90,1,32,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,60,4,56,No,Minor
+Urban,Rainy,Daylight,High,Dry,110,1,19,No,Moderate
+Highway,Rainy,Dark - street lights,Medium,Dry,50,4,79,No,Moderate
+Urban,Snowy,Dark - no street lights,Low,Dry,30,4,24,No,Severe
+Urban,Clear,Daylight,Low,Dry,60,2,72,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,40,2,51,No,Moderate
+Intersection,Clear,Dark - street lights,High,Wet,100,1,32,No,Moderate
+Urban,Foggy,Daylight,Medium,Dry,120,2,37,No,Moderate
+Urban,Clear,Daylight,Low,Dry,30,2,53,No,Minor
+Rural,Clear,Daylight,Medium,Gravel,60,1,75,No,Moderate
+Highway,Rainy,Daylight,Medium,Wet,30,2,29,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,110,2,59,No,Moderate
+Highway,Clear,Daylight,Low,Wet,100,3,70,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Dry,100,2,39,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,120,1,44,No,Severe
+Highway,Rainy,Dark - no street lights,High,Dry,110,1,18,No,Moderate
+Rural,Rainy,Dark - street lights,Medium,Dry,80,2,68,No,Minor
+Rural,Clear,Daylight,Medium,Wet,40,1,76,No,Minor
+Rural,Foggy,Dark - no street lights,High,Dry,40,3,57,No,Minor
+Highway,Rainy,Daylight,Low,Wet,30,1,55,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Dry,90,1,56,No,Severe
+Urban,Clear,Dark - street lights,High,Dry,120,1,80,Yes,Moderate
+Urban,Clear,Dark - street lights,High,Wet,90,3,62,Yes,Severe
+Rural,Snowy,Daylight,High,Wet,40,2,29,No,Moderate
+Intersection,Clear,Dark - street lights,Low,Gravel,30,2,75,No,Minor
+Highway,Clear,Daylight,High,Wet,110,2,82,No,Moderate
+Rural,Clear,Dark - street lights,Low,Dry,110,2,75,No,Moderate
+Urban,Clear,Daylight,Low,Dry,40,1,80,No,Minor
+Rural,Clear,Daylight,Medium,Dry,120,3,47,No,Moderate
+Rural,Foggy,Daylight,Low,Dry,120,2,74,No,Severe
+Rural,Foggy,Daylight,Medium,Dry,30,2,72,No,Minor
+Urban,Foggy,Dark - street lights,Medium,Dry,60,4,35,No,Moderate
+Rural,Clear,Dark - no street lights,Medium,Dry,40,5,41,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,90,1,25,No,Moderate
+Urban,Clear,Daylight,High,Dry,60,4,45,No,Minor
+Highway,Clear,Daylight,Medium,Dry,110,4,27,No,Moderate
+Intersection,Clear,Daylight,High,Dry,60,2,70,No,Minor
+Urban,Clear,Daylight,Low,Dry,80,3,21,No,Minor
+Highway,Rainy,Daylight,High,Dry,110,4,38,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,110,1,36,No,Moderate
+Urban,Rainy,Dark - no street lights,Medium,Wet,120,2,57,No,Severe
+Highway,Clear,Dark - street lights,High,Dry,110,4,35,No,Moderate
+Urban,Clear,Dark - street lights,Low,Dry,70,4,83,No,Moderate
+Intersection,Clear,Daylight,Low,Gravel,60,3,84,No,Moderate
+Rural,Clear,Dark - street lights,High,Wet,70,1,64,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,70,2,44,No,Minor
+Intersection,Rainy,Daylight,Medium,Wet,120,2,61,No,Moderate
+Highway,Clear,Dark - no street lights,High,Gravel,30,1,50,Yes,Moderate
+Highway,Clear,Daylight,Low,Dry,90,2,80,No,Moderate
+Highway,Clear,Daylight,Low,Dry,30,1,26,No,Minor
+Rural,Foggy,Dark - street lights,Low,Icy,120,1,32,No,Severe
+Highway,Clear,Daylight,Low,Dry,120,3,63,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,120,1,38,No,Moderate
+Rural,Snowy,Daylight,Medium,Dry,90,1,76,No,Severe
+Urban,Clear,Dark - street lights,Medium,Wet,90,2,47,No,Minor
+Urban,Rainy,Daylight,Medium,Dry,120,3,20,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,120,2,74,No,Severe
+Urban,Rainy,Dark - street lights,Medium,Dry,90,1,58,No,Moderate
+Intersection,Clear,Dark - no street lights,High,Wet,120,1,26,No,Severe
+Rural,Clear,Daylight,Medium,Dry,100,4,29,No,Moderate
+Intersection,Clear,Daylight,Low,Dry,110,2,43,No,Moderate
+Intersection,Clear,Dark - street lights,Low,Gravel,40,2,24,No,Minor
+Urban,Clear,Daylight,High,Dry,90,2,84,No,Moderate
+Intersection,Rainy,Daylight,High,Wet,50,2,78,Yes,Severe
+Rural,Clear,Dark - street lights,Low,Dry,50,2,77,No,Minor
+Urban,Clear,Daylight,Low,Wet,80,4,52,No,Moderate
+Urban,Clear,Daylight,Low,Dry,120,3,53,No,Moderate
+Highway,Rainy,Dark - street lights,Low,Dry,30,1,66,No,Minor
+Highway,Rainy,Daylight,Medium,Icy,100,5,84,No,Severe
+Highway,Rainy,Dark - street lights,High,Dry,90,1,81,No,Severe
+Intersection,Rainy,Daylight,High,Dry,70,2,58,No,Moderate
+Rural,Clear,Dark - street lights,High,Dry,120,3,35,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,2,44,No,Moderate
+Highway,Clear,Dark - no street lights,High,Gravel,70,2,62,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,100,1,60,No,Moderate
+Intersection,Clear,Dark - no street lights,Low,Wet,70,1,83,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,30,3,33,No,Minor
+Rural,Clear,Daylight,Medium,Dry,120,2,37,Yes,Moderate
+Highway,Rainy,Daylight,Low,Gravel,40,2,53,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,90,3,37,No,Minor
+Urban,Snowy,Daylight,Low,Wet,40,1,39,Yes,Moderate
+Highway,Clear,Daylight,High,Dry,80,4,51,No,Minor
+Rural,Rainy,Daylight,Low,Wet,120,2,53,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,110,2,69,No,Minor
+Urban,Rainy,Daylight,High,Dry,60,2,37,Yes,Minor
+Rural,Clear,Daylight,Medium,Dry,70,1,38,No,Moderate
+Rural,Foggy,Daylight,Medium,Dry,90,2,21,No,Moderate
+Urban,Clear,Daylight,High,Gravel,90,2,69,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Wet,40,1,19,No,Moderate
+Highway,Foggy,Dark - no street lights,High,Wet,50,6,18,No,Severe
+Rural,Rainy,Dark - no street lights,Medium,Wet,40,1,57,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Wet,60,3,68,No,Minor
+Urban,Rainy,Daylight,Medium,Dry,100,2,51,No,Moderate
+Rural,Clear,Daylight,Low,Dry,90,4,38,No,Moderate
+Highway,Clear,Dark - street lights,Medium,Wet,60,3,57,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,40,1,75,No,Minor
+Urban,Clear,Daylight,Medium,Dry,110,3,56,Yes,Moderate
+Urban,Clear,Daylight,Low,Dry,40,1,50,No,Minor
+Intersection,Rainy,Dark - no street lights,Medium,Wet,90,2,41,No,Moderate
+Rural,Foggy,Daylight,Medium,Gravel,50,1,35,No,Minor
+Intersection,Rainy,Daylight,High,Dry,80,3,65,No,Minor
+Urban,Rainy,Dark - no street lights,Low,Dry,110,2,68,No,Severe
+Highway,Clear,Dark - no street lights,High,Dry,120,2,76,No,Severe
+Urban,Clear,Dark - street lights,High,Dry,90,4,47,Yes,Severe
+Urban,Foggy,Dark - no street lights,High,Wet,120,2,51,No,Severe
+Urban,Clear,Dark - street lights,Low,Dry,30,5,53,No,Moderate
+Urban,Foggy,Dark - street lights,High,Wet,120,2,81,Yes,Severe
+Urban,Rainy,Daylight,Low,Dry,90,2,60,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,70,1,55,No,Minor
+Highway,Foggy,Daylight,Low,Dry,70,2,26,No,Moderate
+Intersection,Foggy,Daylight,High,Wet,70,5,32,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,100,2,53,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,120,3,29,Yes,Severe
+Urban,Clear,Daylight,Medium,Dry,80,1,67,No,Minor
+Rural,Clear,Daylight,Medium,Dry,120,3,26,Yes,Moderate
+Rural,Rainy,Dark - no street lights,High,Dry,100,2,65,No,Severe
+Urban,Clear,Dark - no street lights,High,Dry,90,3,18,Yes,Severe
+Intersection,Clear,Dark - street lights,Medium,Dry,40,2,78,No,Moderate
+Urban,Rainy,Daylight,High,Dry,70,2,72,No,Moderate
+Intersection,Clear,Daylight,High,Dry,70,3,37,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,30,6,59,No,Minor
+Urban,Clear,Daylight,Medium,Dry,40,1,51,No,Minor
+Highway,Clear,Daylight,Low,Dry,110,3,28,No,Moderate
+Highway,Clear,Dark - street lights,Low,Dry,70,1,69,No,Moderate
+Highway,Rainy,Daylight,Low,Dry,120,1,79,No,Severe
+Rural,Clear,Daylight,Low,Gravel,60,1,39,No,Moderate
+Urban,Rainy,Daylight,Medium,Dry,110,1,70,No,Moderate
+Highway,Clear,Dark - street lights,High,Dry,110,1,73,No,Moderate
+Highway,Clear,Daylight,Medium,Gravel,70,2,33,No,Moderate
+Urban,Clear,Daylight,Low,Dry,70,3,41,No,Minor
+Urban,Rainy,Daylight,Low,Dry,40,3,35,Yes,Minor
+Urban,Clear,Daylight,Low,Dry,30,2,61,No,Minor
+Rural,Foggy,Daylight,Medium,Wet,70,2,43,No,Moderate
+Urban,Clear,Daylight,Medium,Gravel,60,2,53,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Dry,60,2,54,No,Moderate
+Urban,Clear,Daylight,High,Dry,120,2,56,No,Minor
+Urban,Clear,Daylight,Low,Dry,50,1,48,No,Minor
+Highway,Snowy,Daylight,Medium,Dry,70,3,84,No,Severe
+Highway,Clear,Daylight,Low,Gravel,40,1,54,No,Moderate
+Urban,Foggy,Dark - no street lights,High,Dry,110,4,81,Yes,Severe
+Urban,Rainy,Daylight,Medium,Dry,60,1,57,No,Minor
+Highway,Rainy,Daylight,Low,Dry,120,2,63,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,80,2,73,Yes,Moderate
+Urban,Clear,Daylight,Low,Dry,30,1,70,No,Minor
+Intersection,Clear,Dark - street lights,Low,Dry,80,1,50,No,Minor
+Highway,Clear,Daylight,Medium,Dry,60,1,48,No,Minor
+Highway,Rainy,Dark - no street lights,Low,Dry,70,2,18,Yes,Severe
+Highway,Snowy,Dark - street lights,High,Dry,110,2,53,No,Moderate
+Rural,Clear,Daylight,Medium,Gravel,120,1,53,No,Minor
+Rural,Clear,Daylight,Low,Wet,60,1,76,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Wet,70,3,73,No,Moderate
+Urban,Foggy,Daylight,Low,Dry,110,1,71,No,Moderate
+Urban,Clear,Daylight,High,Dry,110,3,85,Yes,Moderate
+Intersection,Foggy,Dark - no street lights,High,Icy,50,3,45,Yes,Severe
+Rural,Clear,Daylight,Low,Wet,30,1,55,No,Minor
+Highway,Foggy,Dark - no street lights,Low,Wet,30,1,32,No,Moderate
+Rural,Rainy,Daylight,Low,Wet,50,1,24,No,Moderate
+Highway,Foggy,Daylight,Medium,Dry,110,1,51,No,Moderate
+Highway,Rainy,Daylight,High,Dry,40,2,74,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,70,6,61,No,Minor
+Rural,Rainy,Dark - no street lights,Medium,Dry,50,3,28,No,Minor
+Urban,Foggy,Daylight,High,Dry,80,1,21,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,50,1,36,No,Minor
+Highway,Clear,Daylight,High,Dry,50,3,54,No,Minor
+Highway,Clear,Daylight,Low,Dry,70,4,66,No,Minor
+Urban,Clear,Daylight,Medium,Dry,120,1,70,No,Minor
+Urban,Rainy,Daylight,High,Wet,90,3,23,No,Moderate
+Urban,Clear,Daylight,High,Dry,120,2,20,No,Moderate
+Intersection,Clear,Daylight,Low,Wet,40,4,50,No,Minor
+Urban,Clear,Daylight,Low,Dry,70,5,40,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,90,2,37,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,70,2,38,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Dry,70,1,23,No,Minor
+Urban,Snowy,Daylight,Medium,Wet,70,4,23,No,Moderate
+Urban,Clear,Daylight,Low,Wet,30,2,78,No,Minor
+Highway,Clear,Daylight,Medium,Wet,110,4,20,No,Moderate
+Highway,Clear,Daylight,High,Dry,50,2,25,No,Minor
+Urban,Clear,Dark - street lights,High,Dry,60,4,44,Yes,Moderate
+Highway,Clear,Dark - no street lights,Low,Wet,50,3,29,No,Moderate
+Highway,Clear,Dark - street lights,High,Dry,120,5,48,No,Moderate
+Urban,Clear,Daylight,Low,Icy,30,3,28,Yes,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,100,5,70,No,Moderate
+Urban,Foggy,Daylight,Low,Wet,120,1,71,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,100,2,81,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,60,2,62,No,Moderate
+Urban,Clear,Daylight,Low,Dry,120,2,55,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,50,5,82,No,Moderate
+Urban,Clear,Daylight,Low,Dry,30,3,55,No,Minor
+Urban,Clear,Daylight,High,Dry,90,2,23,No,Minor
+Urban,Rainy,Daylight,High,Gravel,60,4,25,No,Moderate
+Intersection,Clear,Dark - no street lights,Low,Dry,100,1,45,No,Severe
+Urban,Clear,Dark - no street lights,Medium,Wet,110,2,73,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Gravel,70,2,23,No,Moderate
+Urban,Clear,Dark - street lights,High,Wet,80,2,79,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,40,1,65,No,Minor
+Rural,Clear,Daylight,Medium,Dry,40,3,54,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,120,2,71,No,Moderate
+Highway,Clear,Dark - street lights,Low,Dry,120,3,76,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,120,1,20,No,Moderate
+Intersection,Clear,Dark - street lights,High,Gravel,60,1,46,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Wet,110,2,68,No,Severe
+Highway,Clear,Dark - no street lights,Medium,Dry,60,2,47,No,Moderate
+Highway,Clear,Daylight,High,Dry,110,3,54,No,Moderate
+Intersection,Foggy,Dark - no street lights,Low,Dry,120,2,61,No,Severe
+Highway,Rainy,Daylight,Low,Wet,40,3,66,No,Minor
+Urban,Rainy,Dark - no street lights,Low,Dry,90,1,36,No,Severe
+Urban,Foggy,Daylight,High,Wet,90,2,48,No,Moderate
+Rural,Rainy,Daylight,High,Wet,50,2,46,No,Minor
+Highway,Foggy,Daylight,High,Dry,90,2,27,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,40,2,25,No,Minor
+Highway,Rainy,Daylight,Medium,Wet,110,1,74,No,Severe
+Highway,Clear,Daylight,Medium,Dry,100,2,54,No,Severe
+Intersection,Rainy,Dark - street lights,Medium,Dry,50,2,29,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,50,2,26,No,Minor
+Highway,Clear,Daylight,Low,Dry,60,1,34,Yes,Moderate
+Urban,Rainy,Daylight,Medium,Gravel,40,2,28,No,Moderate
+Intersection,Rainy,Daylight,Low,Dry,60,3,48,No,Moderate
+Intersection,Clear,Daylight,Medium,Gravel,90,1,45,No,Severe
+Urban,Clear,Dark - street lights,Low,Dry,30,1,68,No,Minor
+Urban,Rainy,Daylight,Low,Dry,100,1,50,No,Moderate
+Intersection,Foggy,Dark - street lights,Medium,Dry,50,1,38,No,Moderate
+Intersection,Foggy,Dark - street lights,High,Dry,60,2,71,No,Minor
+Highway,Rainy,Dark - street lights,Low,Dry,60,4,49,No,Minor
+Rural,Clear,Dark - street lights,Medium,Dry,60,2,75,Yes,Moderate
+Highway,Rainy,Daylight,Medium,Gravel,100,2,25,No,Severe
+Intersection,Clear,Daylight,High,Dry,30,2,18,No,Minor
+Urban,Clear,Daylight,Medium,Dry,90,3,64,No,Moderate
+Urban,Snowy,Dark - no street lights,Medium,Dry,50,3,84,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,30,2,52,No,Minor
+Highway,Clear,Dark - street lights,High,Gravel,50,4,22,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Wet,70,2,55,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,40,2,54,No,Minor
+Intersection,Rainy,Daylight,Medium,Dry,50,1,69,No,Minor
+Highway,Clear,Dark - no street lights,Low,Gravel,100,2,27,Yes,Severe
+Intersection,Clear,Daylight,Medium,Dry,120,2,73,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,100,6,22,No,Moderate
+Urban,Rainy,Dark - street lights,High,Dry,70,4,64,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,40,1,40,No,Minor
+Urban,Foggy,Daylight,Medium,Dry,80,3,55,No,Moderate
+Urban,Foggy,Dark - street lights,Medium,Wet,90,3,46,No,Severe
+Intersection,Foggy,Daylight,Low,Dry,80,1,61,No,Severe
+Intersection,Clear,Dark - no street lights,Medium,Gravel,50,2,46,No,Moderate
+Rural,Clear,Daylight,High,Dry,110,3,65,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,80,1,59,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,110,3,27,Yes,Moderate
+Urban,Clear,Daylight,Low,Dry,80,2,52,No,Minor
+Highway,Clear,Daylight,Low,Wet,60,1,40,No,Minor
+Intersection,Rainy,Daylight,High,Dry,60,3,75,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Dry,40,1,63,No,Moderate
+Highway,Clear,Dark - no street lights,Medium,Dry,110,1,34,No,Severe
+Urban,Clear,Daylight,High,Dry,50,4,72,No,Minor
+Intersection,Foggy,Dark - street lights,Medium,Wet,110,2,56,No,Severe
+Highway,Snowy,Dark - no street lights,Low,Dry,120,2,64,No,Severe
+Urban,Rainy,Dark - street lights,Low,Dry,120,4,28,No,Moderate
+Urban,Rainy,Dark - no street lights,Low,Wet,80,2,47,No,Moderate
+Urban,Rainy,Dark - street lights,High,Dry,80,4,26,No,Moderate
+Highway,Rainy,Daylight,Medium,Wet,70,2,84,No,Severe
+Highway,Clear,Dark - no street lights,Medium,Dry,60,2,74,No,Moderate
+Rural,Clear,Dark - street lights,High,Wet,80,2,26,No,Moderate
+Rural,Clear,Daylight,High,Wet,60,3,34,No,Minor
+Urban,Clear,Daylight,Medium,Dry,40,2,71,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,100,2,29,No,Moderate
+Urban,Clear,Daylight,High,Dry,70,2,66,No,Minor
+Highway,Clear,Daylight,Low,Wet,100,2,48,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,60,1,45,Yes,Moderate
+Rural,Foggy,Dark - no street lights,High,Dry,50,1,45,No,Severe
+Rural,Rainy,Dark - street lights,Medium,Dry,60,2,36,No,Minor
+Urban,Rainy,Dark - street lights,Low,Dry,110,1,57,No,Moderate
+Highway,Rainy,Daylight,Low,Dry,60,5,60,No,Moderate
+Urban,Rainy,Dark - street lights,Medium,Wet,50,4,74,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,100,3,45,No,Moderate
+Intersection,Clear,Daylight,Medium,Gravel,60,1,21,No,Moderate
+Rural,Clear,Dark - street lights,High,Dry,50,1,23,No,Minor
+Highway,Clear,Dark - no street lights,High,Dry,110,4,74,No,Severe
+Rural,Clear,Daylight,Low,Dry,90,4,23,No,Moderate
+Urban,Clear,Dark - no street lights,Medium,Wet,120,2,76,No,Severe
+Urban,Rainy,Dark - no street lights,High,Dry,50,2,39,No,Minor
+Rural,Clear,Daylight,Low,Dry,100,2,83,No,Moderate
+Urban,Clear,Daylight,Low,Dry,40,2,32,No,Minor
+Urban,Clear,Daylight,Low,Dry,100,2,35,No,Minor
+Urban,Clear,Daylight,Low,Dry,40,2,22,No,Minor
+Rural,Rainy,Dark - no street lights,High,Gravel,60,4,45,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,70,3,31,No,Minor
+Rural,Clear,Daylight,Low,Dry,90,2,35,Yes,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,120,1,64,Yes,Moderate
+Urban,Clear,Dark - street lights,High,Wet,30,3,45,No,Minor
+Rural,Clear,Dark - street lights,High,Dry,100,1,53,No,Moderate
+Intersection,Clear,Daylight,Medium,Wet,50,1,21,No,Moderate
+Urban,Clear,Daylight,Low,Dry,120,1,47,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Wet,40,2,20,No,Moderate
+Highway,Foggy,Daylight,Medium,Gravel,50,3,18,No,Severe
+Rural,Clear,Daylight,Low,Dry,90,5,75,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,90,3,49,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,30,2,33,No,Minor
+Urban,Foggy,Dark - street lights,Medium,Dry,90,2,29,No,Moderate
+Highway,Clear,Daylight,Low,Wet,80,2,36,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,40,1,77,No,Minor
+Urban,Foggy,Dark - street lights,Low,Gravel,70,2,43,No,Severe
+Urban,Clear,Daylight,Medium,Dry,80,2,72,No,Moderate
+Highway,Clear,Daylight,Medium,Gravel,60,2,38,No,Moderate
+Urban,Clear,Daylight,High,Dry,120,1,48,No,Minor
+Rural,Clear,Daylight,High,Dry,90,1,60,No,Moderate
+Urban,Clear,Daylight,Medium,Gravel,30,1,51,No,Minor
+Highway,Foggy,Daylight,Medium,Wet,70,2,58,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Wet,70,2,81,Yes,Moderate
+Highway,Clear,Dark - no street lights,Medium,Dry,60,2,74,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,60,2,24,No,Minor
+Highway,Clear,Dark - street lights,High,Dry,60,3,83,No,Minor
+Intersection,Snowy,Daylight,Low,Wet,70,1,73,No,Moderate
+Intersection,Clear,Daylight,Low,Dry,110,3,31,No,Moderate
+Rural,Clear,Dark - street lights,Medium,Dry,110,5,28,No,Moderate
+Rural,Rainy,Daylight,Medium,Icy,120,2,36,No,Severe
+Urban,Rainy,Daylight,Medium,Dry,110,1,27,Yes,Severe
+Intersection,Foggy,Daylight,Low,Wet,100,5,63,No,Severe
+Intersection,Snowy,Daylight,High,Dry,30,3,51,No,Minor
+Highway,Clear,Dark - street lights,High,Dry,60,2,28,No,Minor
+Rural,Foggy,Daylight,Medium,Wet,70,3,72,No,Severe
+Highway,Clear,Dark - street lights,Medium,Gravel,100,2,24,No,Moderate
+Urban,Foggy,Daylight,Medium,Dry,90,1,49,No,Moderate
+Urban,Foggy,Dark - street lights,Medium,Dry,90,2,76,No,Severe
+Rural,Clear,Dark - street lights,High,Gravel,70,3,66,No,Minor
+Urban,Clear,Dark - street lights,Low,Dry,70,1,74,No,Minor
+Urban,Snowy,Daylight,High,Wet,90,2,34,No,Moderate
+Intersection,Foggy,Dark - street lights,Low,Dry,110,1,23,No,Severe
+Highway,Snowy,Dark - street lights,Medium,Dry,90,1,26,No,Severe
+Urban,Snowy,Daylight,High,Gravel,60,2,38,Yes,Severe
+Urban,Clear,Dark - street lights,High,Dry,60,1,50,No,Minor
+Highway,Clear,Dark - street lights,Medium,Gravel,80,4,53,No,Moderate
+Highway,Clear,Dark - street lights,High,Wet,70,1,71,No,Moderate
+Urban,Rainy,Daylight,High,Wet,110,1,51,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Dry,110,1,52,No,Moderate
+Urban,Clear,Dark - no street lights,High,Wet,120,1,68,No,Severe
+Highway,Clear,Dark - street lights,Low,Gravel,90,3,74,No,Severe
+Highway,Clear,Dark - street lights,High,Dry,120,2,58,No,Moderate
+Urban,Clear,Daylight,High,Wet,80,1,66,No,Minor
+Urban,Clear,Daylight,Medium,Wet,60,3,68,No,Minor
+Rural,Clear,Daylight,Low,Dry,30,2,18,No,Minor
+Highway,Rainy,Daylight,Low,Dry,120,2,24,No,Moderate
+Intersection,Rainy,Dark - street lights,Medium,Dry,100,2,59,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,80,2,74,No,Moderate
+Rural,Clear,Daylight,Low,Wet,120,1,34,No,Minor
+Rural,Clear,Daylight,Medium,Dry,50,3,61,No,Minor
+Urban,Clear,Daylight,Low,Wet,90,1,41,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Gravel,100,3,78,No,Severe
+Urban,Clear,Daylight,Low,Gravel,40,2,82,No,Moderate
+Urban,Rainy,Dark - street lights,High,Dry,110,1,78,No,Severe
+Highway,Clear,Daylight,Low,Dry,80,2,19,Yes,Moderate
+Urban,Clear,Dark - street lights,High,Wet,90,1,32,Yes,Severe
+Urban,Rainy,Daylight,Low,Dry,120,3,24,No,Moderate
+Urban,Rainy,Daylight,High,Gravel,50,2,33,No,Minor
+Urban,Clear,Dark - street lights,High,Dry,30,3,72,No,Minor
+Rural,Clear,Daylight,Medium,Wet,40,1,42,No,Minor
+Rural,Clear,Dark - street lights,High,Wet,120,3,28,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,50,2,21,No,Minor
+Rural,Rainy,Dark - no street lights,Medium,Dry,110,1,26,No,Moderate
+Highway,Clear,Daylight,Medium,Dry,30,2,47,No,Minor
+Urban,Foggy,Daylight,Low,Dry,30,4,31,No,Minor
+Rural,Clear,Daylight,Low,Icy,90,2,40,No,Moderate
+Urban,Clear,Daylight,Medium,Wet,80,3,78,No,Moderate
+Urban,Rainy,Daylight,Low,Wet,80,1,33,No,Minor
+Rural,Foggy,Dark - street lights,High,Dry,90,6,85,No,Severe
+Urban,Foggy,Dark - street lights,Low,Gravel,80,2,35,No,Severe
+Rural,Clear,Daylight,High,Wet,120,2,66,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,1,48,No,Moderate
+Urban,Rainy,Daylight,Low,Gravel,50,5,44,Yes,Moderate
+Highway,Clear,Daylight,Medium,Gravel,50,1,23,No,Moderate
+Intersection,Clear,Dark - street lights,Medium,Dry,40,1,21,No,Minor
+Rural,Rainy,Daylight,High,Dry,90,1,28,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,80,2,28,No,Moderate
+Rural,Rainy,Daylight,High,Wet,110,2,42,No,Minor
+Urban,Rainy,Daylight,Low,Wet,30,2,69,Yes,Severe
+Urban,Rainy,Daylight,Medium,Wet,90,2,27,No,Moderate
+Highway,Foggy,Daylight,Low,Dry,90,4,56,No,Moderate
+Rural,Rainy,Dark - no street lights,High,Gravel,30,3,59,No,Moderate
+Highway,Rainy,Daylight,Medium,Dry,110,3,73,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,90,1,76,No,Minor
+Highway,Clear,Dark - street lights,Low,Dry,100,3,27,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,100,4,20,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,110,2,41,No,Moderate
+Urban,Clear,Dark - no street lights,High,Gravel,120,2,35,Yes,Severe
+Highway,Snowy,Daylight,Medium,Dry,40,3,35,No,Minor
+Highway,Clear,Daylight,Medium,Wet,110,1,29,No,Minor
+Highway,Clear,Daylight,High,Dry,120,1,24,No,Minor
+Intersection,Foggy,Daylight,Medium,Dry,50,1,62,No,Minor
+Urban,Clear,Daylight,Low,Dry,50,3,64,No,Minor
+Urban,Clear,Dark - no street lights,Low,Dry,60,4,61,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,50,4,59,No,Minor
+Intersection,Clear,Daylight,Medium,Wet,110,1,51,No,Moderate
+Highway,Clear,Dark - no street lights,High,Wet,80,1,26,No,Moderate
+Urban,Clear,Dark - street lights,High,Dry,120,2,18,No,Moderate
+Urban,Rainy,Daylight,Low,Dry,30,3,47,Yes,Minor
+Intersection,Clear,Dark - street lights,Low,Dry,100,1,73,No,Moderate
+Highway,Foggy,Dark - street lights,Medium,Wet,120,3,59,No,Severe
+Urban,Rainy,Dark - street lights,Medium,Dry,110,2,70,No,Moderate
+Highway,Clear,Dark - street lights,Low,Dry,110,4,78,No,Moderate
+Urban,Clear,Daylight,High,Wet,30,2,23,No,Minor
+Highway,Rainy,Daylight,High,Dry,80,2,85,No,Minor
+Rural,Clear,Dark - no street lights,Medium,Dry,70,5,73,No,Moderate
+Highway,Snowy,Dark - no street lights,High,Gravel,110,1,56,Yes,Severe
+Urban,Clear,Dark - no street lights,High,Dry,70,2,35,No,Moderate
+Rural,Foggy,Dark - street lights,Medium,Dry,80,2,64,Yes,Severe
+Urban,Clear,Dark - street lights,Low,Dry,80,4,59,No,Minor
+Rural,Rainy,Dark - street lights,High,Dry,40,6,77,No,Moderate
+Intersection,Clear,Dark - no street lights,Low,Dry,70,3,74,No,Severe
+Urban,Clear,Dark - street lights,Medium,Dry,70,3,28,No,Minor
+Intersection,Foggy,Dark - street lights,Low,Icy,120,2,25,No,Severe
+Rural,Clear,Daylight,Medium,Wet,50,4,62,Yes,Minor
+Rural,Rainy,Daylight,Medium,Dry,30,2,23,Yes,Minor
+Rural,Rainy,Daylight,Medium,Gravel,120,3,21,Yes,Severe
+Rural,Rainy,Daylight,High,Dry,120,1,56,No,Moderate
+Highway,Clear,Daylight,High,Wet,90,1,54,No,Moderate
+Highway,Rainy,Dark - no street lights,High,Gravel,80,4,40,Yes,Severe
+Urban,Clear,Daylight,Low,Dry,40,1,70,Yes,Moderate
+Highway,Clear,Dark - street lights,Medium,Dry,110,1,67,No,Moderate
+Rural,Clear,Daylight,Low,Wet,60,2,54,No,Minor
+Rural,Snowy,Dark - no street lights,Low,Dry,100,2,38,No,Severe
+Urban,Clear,Daylight,High,Dry,50,4,41,No,Minor
+Highway,Clear,Dark - street lights,Medium,Wet,120,3,37,No,Moderate
+Urban,Clear,Dark - street lights,Medium,Dry,90,3,23,No,Moderate
+Urban,Rainy,Daylight,High,Dry,60,1,32,No,Minor
+Urban,Foggy,Daylight,Medium,Gravel,100,2,75,No,Severe
+Highway,Clear,Daylight,Medium,Wet,70,1,23,No,Moderate
+Rural,Clear,Daylight,Medium,Dry,80,2,27,No,Minor
+Intersection,Foggy,Dark - street lights,Low,Icy,40,1,62,No,Moderate
+Urban,Clear,Dark - street lights,Low,Dry,120,3,39,No,Moderate
+Intersection,Clear,Daylight,Medium,Dry,30,3,30,No,Minor
+Urban,Clear,Daylight,Low,Dry,80,2,77,No,Minor
+Highway,Rainy,Daylight,Medium,Dry,30,3,61,Yes,Minor
+Rural,Rainy,Daylight,High,Dry,50,2,79,No,Minor
+Rural,Clear,Dark - no street lights,Medium,Dry,40,6,35,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,60,1,37,No,Minor
+Urban,Clear,Dark - no street lights,Medium,Wet,110,3,26,No,Severe
+Highway,Clear,Daylight,Low,Dry,30,1,44,Yes,Minor
+Urban,Rainy,Daylight,High,Dry,100,2,34,No,Moderate
+Urban,Foggy,Dark - street lights,Medium,Dry,30,2,68,No,Moderate
+Rural,Rainy,Daylight,High,Dry,100,2,63,No,Minor
+Urban,Rainy,Dark - street lights,Medium,Gravel,40,2,27,No,Moderate
+Urban,Clear,Dark - no street lights,Low,Wet,110,1,21,No,Severe
+Rural,Clear,Daylight,Low,Dry,60,4,71,No,Minor
+Highway,Clear,Daylight,Medium,Wet,90,2,23,No,Moderate
+Urban,Clear,Daylight,Medium,Dry,70,3,50,No,Minor
+Urban,Foggy,Daylight,Low,Dry,60,3,71,No,Minor
+Urban,Clear,Dark - street lights,Medium,Dry,40,1,36,No,Minor
+Rural,Rainy,Dark - no street lights,Medium,Gravel,110,3,52,No,Severe
+Highway,Foggy,Daylight,Medium,Gravel,120,5,30,No,Severe
+Intersection,Clear,Daylight,Medium,Wet,40,2,66,No,Minor
+Urban,Clear,Dark - no street lights,High,Gravel,50,4,25,No,Moderate
+Urban,Clear,Dark - no street lights,High,Dry,60,1,64,No,Minor
+Urban,Rainy,Daylight,Medium,Wet,120,3,81,No,Moderate
+Highway,Clear,Dark - no street lights,High,Dry,80,5,64,Yes,Moderate
+Intersection,Clear,Daylight,Medium,Wet,90,5,26,No,Moderate
+Intersection,Clear,Daylight,Low,Dry,30,2,57,No,Minor
+Highway,Clear,Dark - street lights,Medium,Dry,70,3,41,No,Minor
+Intersection,Clear,Dark - no street lights,Low,Dry,120,6,52,No,Severe
+Urban,Rainy,Daylight,Medium,Dry,50,5,32,No,Moderate
+Urban,Clear,Dark - street lights,Low,Dry,60,2,76,No,Moderate
+Urban,Clear,Dark - street lights,Low,Gravel,80,4,36,Yes,Moderate
+Urban,Rainy,Daylight,High,Dry,80,1,64,No,Minor
+Urban,Foggy,Daylight,Medium,Dry,100,1,81,No,Moderate
+Intersection,Foggy,Dark - no street lights,Medium,Wet,90,3,36,No,Severe
+Highway,Clear,Daylight,Low,Dry,40,2,25,No,Minor
+Urban,Rainy,Dark - street lights,High,Wet,110,1,65,No,Minor
+Urban,Foggy,Daylight,Medium,Wet,40,2,58,No,Minor
+Rural,Clear,Daylight,Medium,Dry,120,3,33,No,Moderate
+Rural,Rainy,Daylight,Low,Dry,40,1,62,No,Minor
+Urban,Rainy,Daylight,Medium,Dry,50,2,80,No,Minor
+Intersection,Clear,Dark - no street lights,Medium,Dry,60,1,37,No,Moderate
